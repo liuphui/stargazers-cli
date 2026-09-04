@@ -1,11 +1,8 @@
 from typing import List
 import requests
 import os
+import json
 from dotenv import load_dotenv
-
-# # Write JSON data to a JSON file
-# with open('data.json', 'w') as file:
-#     json.dump(response, file)
 
 def construct_headers() -> dict:
     load_dotenv()
@@ -48,24 +45,18 @@ def fetch_top_starred_by_language(given_language: str) -> dict:
         if not items:
             break
         
-        total_stargazers_stats = []
         for item in items:
             _id = item.get("id")
-            repo_name = item.get("name", "")
+            full_name = item.get("full_name", "")
             stargazers_count = item.get("stargazers_count")
             
             stargazers_stats = {
                 "id": _id,
-                "repository_name": repo_name,
+                "full_name": full_name,
                 "stargazers_count": stargazers_count
             }
             
             total_stargazers_stats.append(stargazers_stats)
-            
-            # Stop at the top 100
-            if len(total_stargazers_stats) == 100:
-                break
-            
         page += 1
         
     return total_stargazers_stats
@@ -73,7 +64,8 @@ def fetch_top_starred_by_language(given_language: str) -> dict:
 def main():
     total_stargazers_stats = fetch_top_starred_by_language("Ruby")
     print(f"Found {len(total_stargazers_stats)} repositories")
-    print(total_stargazers_stats)
+    with open('data/output.json', 'w') as file:
+        json.dump(total_stargazers_stats, file)
     
 if __name__ == "__main__":
     main()

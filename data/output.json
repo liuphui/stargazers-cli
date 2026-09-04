@@ -1,0 +1,5002 @@
+[
+    {
+        "id": 8514,
+        "full_name": "rails/rails",
+        "stargazers_count": 58752
+    },
+    {
+        "id": 737898780,
+        "full_name": "maybe-finance/maybe",
+        "stargazers_count": 54299
+    },
+    {
+        "id": 65252,
+        "full_name": "jekyll/jekyll",
+        "stargazers_count": 51659
+    },
+    {
+        "id": 52281283,
+        "full_name": "mastodon/mastodon",
+        "stargazers_count": 50264
+    },
+    {
+        "id": 8681349,
+        "full_name": "huginn/huginn",
+        "stargazers_count": 49895
+    },
+    {
+        "id": 53238813,
+        "full_name": "Homebrew/brew",
+        "stargazers_count": 49394
+    },
+    {
+        "id": 7569578,
+        "full_name": "discourse/discourse",
+        "stargazers_count": 47788
+    },
+    {
+        "id": 27442967,
+        "full_name": "fastlane/fastlane",
+        "stargazers_count": 42055
+    },
+    {
+        "id": 13840241,
+        "full_name": "freeCodeCamp/devdocs",
+        "stargazers_count": 39418
+    },
+    {
+        "id": 2293158,
+        "full_name": "rapid7/metasploit-framework",
+        "stargazers_count": 38944
+    },
+    {
+        "id": 37382858,
+        "full_name": "kilimchoi/engineering-blogs",
+        "stargazers_count": 38577
+    },
+    {
+        "id": 202291859,
+        "full_name": "chatwoot/chatwoot",
+        "stargazers_count": 36495
+    },
+    {
+        "id": 21600440,
+        "full_name": "bayandin/awesome-awesomeness",
+        "stargazers_count": 33651
+    },
+    {
+        "id": 481872,
+        "full_name": "hashicorp/vagrant",
+        "stargazers_count": 27205
+    },
+    {
+        "id": 21696302,
+        "full_name": "matteocrippa/awesome-swift",
+        "stargazers_count": 26240
+    },
+    {
+        "id": 2500088,
+        "full_name": "gitlabhq/gitlabhq",
+        "stargazers_count": 24551
+    },
+    {
+        "id": 308770,
+        "full_name": "heartcombo/devise",
+        "stargazers_count": 24357
+    },
+    {
+        "id": 538746,
+        "full_name": "ruby/ruby",
+        "stargazers_count": 23700
+    },
+    {
+        "id": 73648678,
+        "full_name": "forem/forem",
+        "stargazers_count": 22774
+    },
+    {
+        "id": 3623050,
+        "full_name": "Homebrew/homebrew-cask",
+        "stargazers_count": 22183
+    },
+    {
+        "id": 18486300,
+        "full_name": "lewagon/setup",
+        "stargazers_count": 19623
+    },
+    {
+        "id": 661850205,
+        "full_name": "docusealco/docuseal",
+        "stargazers_count": 18437
+    },
+    {
+        "id": 88740103,
+        "full_name": "postalserver/postal",
+        "stargazers_count": 16784
+    },
+    {
+        "id": 6899875,
+        "full_name": "opf/openproject",
+        "stargazers_count": 16026
+    },
+    {
+        "id": 3314,
+        "full_name": "spree/spree",
+        "stargazers_count": 15666
+    },
+    {
+        "id": 52855516,
+        "full_name": "Homebrew/homebrew-core",
+        "stargazers_count": 15545
+    },
+    {
+        "id": 2203645,
+        "full_name": "CocoaPods/CocoaPods",
+        "stargazers_count": 14832
+    },
+    {
+        "id": 11423758,
+        "full_name": "mame/quine-relay",
+        "stargazers_count": 14593
+    },
+    {
+        "id": 586265895,
+        "full_name": "basecamp/kamal",
+        "stargazers_count": 14560
+    },
+    {
+        "id": 45307548,
+        "full_name": "neutraltone/awesome-stock-resources",
+        "stargazers_count": 14514
+    },
+    {
+        "id": 585285,
+        "full_name": "gollum/gollum",
+        "stargazers_count": 14319
+    },
+    {
+        "id": 1157388,
+        "full_name": "tmuxinator/tmuxinator",
+        "stargazers_count": 13716
+    },
+    {
+        "id": 1725199,
+        "full_name": "github-linguist/linguist",
+        "stargazers_count": 13677
+    },
+    {
+        "id": 911765,
+        "full_name": "diaspora/diaspora",
+        "stargazers_count": 13650
+    },
+    {
+        "id": 1918677,
+        "full_name": "fluent/fluentd",
+        "stargazers_count": 13581
+    },
+    {
+        "id": 3195124,
+        "full_name": "sidekiq/sidekiq",
+        "stargazers_count": 13554
+    },
+    {
+        "id": 138312,
+        "full_name": "capistrano/capistrano",
+        "stargazers_count": 12992
+    },
+    {
+        "id": 4095287,
+        "full_name": "rubocop/rubocop",
+        "stargazers_count": 12893
+    },
+    {
+        "id": 106995,
+        "full_name": "sinatra/sinatra",
+        "stargazers_count": 12448
+    },
+    {
+        "id": 590158156,
+        "full_name": "ubicloud/ubicloud",
+        "stargazers_count": 12256
+    },
+    {
+        "id": 96395,
+        "full_name": "faker-ruby/faker",
+        "stargazers_count": 11935
+    },
+    {
+        "id": 15435,
+        "full_name": "Shopify/liquid",
+        "stargazers_count": 11875
+    },
+    {
+        "id": 13761875,
+        "full_name": "greatghoul/remote-working",
+        "stargazers_count": 11747
+    },
+    {
+        "id": 1217404,
+        "full_name": "jordansissel/fpm",
+        "stargazers_count": 11501
+    },
+    {
+        "id": 6688319,
+        "full_name": "DeathKing/Learning-SICP",
+        "stargazers_count": 11271
+    },
+    {
+        "id": 776916297,
+        "full_name": "Freika/dawarich",
+        "stargazers_count": 10312
+    },
+    {
+        "id": 361310,
+        "full_name": "teamcapybara/capybara",
+        "stargazers_count": 10174
+    },
+    {
+        "id": 812393,
+        "full_name": "ruby-grape/grape",
+        "stargazers_count": 10004
+    },
+    {
+        "id": 4994614,
+        "full_name": "wpscanteam/wpscan",
+        "stargazers_count": 9755
+    },
+    {
+        "id": 1024661423,
+        "full_name": "we-promise/sure",
+        "stargazers_count": 9709
+    },
+    {
+        "id": 611921,
+        "full_name": "activeadmin/activeadmin",
+        "stargazers_count": 9707
+    },
+    {
+        "id": 959682770,
+        "full_name": "antiwork/gumroad",
+        "stargazers_count": 9654
+    },
+    {
+        "id": 5200099,
+        "full_name": "thoughtbot/guides",
+        "stargazers_count": 9561
+    },
+    {
+        "id": 275604,
+        "full_name": "resque/resque",
+        "stargazers_count": 9476
+    },
+    {
+        "id": 69193081,
+        "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
+        "stargazers_count": 9330
+    },
+    {
+        "id": 341626,
+        "full_name": "imathis/octopress",
+        "stargazers_count": 9235
+    },
+    {
+        "id": 8393,
+        "full_name": "thoughtbot/paperclip",
+        "stargazers_count": 9014
+    },
+    {
+        "id": 1653882,
+        "full_name": "thoughtbot/bourbon",
+        "stargazers_count": 9004
+    },
+    {
+        "id": 22059578,
+        "full_name": "ankane/pghero",
+        "stargazers_count": 8918
+    },
+    {
+        "id": 129791,
+        "full_name": "javan/whenever",
+        "stargazers_count": 8857
+    },
+    {
+        "id": 47087,
+        "full_name": "carrierwaveuploader/carrierwave",
+        "stargazers_count": 8775
+    },
+    {
+        "id": 301573344,
+        "full_name": "community/community",
+        "stargazers_count": 8739
+    },
+    {
+        "id": 1333863,
+        "full_name": "kaminari/kaminari",
+        "stargazers_count": 8670
+    },
+    {
+        "id": 6529205,
+        "full_name": "varvet/pundit",
+        "stargazers_count": 8521
+    },
+    {
+        "id": 108278,
+        "full_name": "chef/chef",
+        "stargazers_count": 8234
+    },
+    {
+        "id": 451035,
+        "full_name": "heartcombo/simple_form",
+        "stargazers_count": 8229
+    },
+    {
+        "id": 818326760,
+        "full_name": "basecamp/fizzy",
+        "stargazers_count": 8174
+    },
+    {
+        "id": 21829,
+        "full_name": "thoughtbot/factory_bot",
+        "stargazers_count": 8169
+    },
+    {
+        "id": 587311,
+        "full_name": "omniauth/omniauth",
+        "stargazers_count": 8101
+    },
+    {
+        "id": 810796,
+        "full_name": "railsadminteam/rails_admin",
+        "stargazers_count": 7956
+    },
+    {
+        "id": 910744,
+        "full_name": "puppetlabs/puppet",
+        "stargazers_count": 7928
+    },
+    {
+        "id": 2441517,
+        "full_name": "puma/puma",
+        "stargazers_count": 7914
+    },
+    {
+        "id": 16549503,
+        "full_name": "github/scientist",
+        "stargazers_count": 7753
+    },
+    {
+        "id": 26018608,
+        "full_name": "github-changelog-generator/github-changelog-generator",
+        "stargazers_count": 7537
+    },
+    {
+        "id": 20552964,
+        "full_name": "realm/jazzy",
+        "stargazers_count": 7380
+    },
+    {
+        "id": 277089,
+        "full_name": "flyerhzm/bullet",
+        "stargazers_count": 7336
+    },
+    {
+        "id": 865250,
+        "full_name": "presidentbeef/brakeman",
+        "stargazers_count": 7267
+    },
+    {
+        "id": 261943,
+        "full_name": "middleman/middleman",
+        "stargazers_count": 7109
+    },
+    {
+        "id": 211588,
+        "full_name": "paper-trail-gem/paper_trail",
+        "stargazers_count": 7028
+    },
+    {
+        "id": 2798959,
+        "full_name": "skwp/dotfiles",
+        "stargazers_count": 6970
+    },
+    {
+        "id": 72754314,
+        "full_name": "chyingp/nodejs-learning-guide",
+        "stargazers_count": 6864
+    },
+    {
+        "id": 7066560,
+        "full_name": "BetterErrors/better_errors",
+        "stargazers_count": 6861
+    },
+    {
+        "id": 1145832,
+        "full_name": "pry/pry",
+        "stargazers_count": 6834
+    },
+    {
+        "id": 1191521334,
+        "full_name": "midudev/autoskills",
+        "stargazers_count": 6830
+    },
+    {
+        "id": 950915,
+        "full_name": "urbanadventurer/WhatWeb",
+        "stargazers_count": 6819
+    },
+    {
+        "id": 1314319,
+        "full_name": "instructure/canvas-lms",
+        "stargazers_count": 6794
+    },
+    {
+        "id": 1021040,
+        "full_name": "sj26/mailcatcher",
+        "stargazers_count": 6776
+    },
+    {
+        "id": 5160706,
+        "full_name": "bkeepers/dotenv",
+        "stargazers_count": 6764
+    },
+    {
+        "id": 11412473,
+        "full_name": "ankane/searchkick",
+        "stargazers_count": 6720
+    },
+    {
+        "id": 185419470,
+        "full_name": "kkuchta/css-only-chat",
+        "stargazers_count": 6590
+    },
+    {
+        "id": 2185269,
+        "full_name": "busyloop/lolcat",
+        "stargazers_count": 6569
+    },
+    {
+        "id": 9906653,
+        "full_name": "ankane/chartkick",
+        "stargazers_count": 6528
+    },
+    {
+        "id": 176780,
+        "full_name": "alexreisner/geocoder",
+        "stargazers_count": 6445
+    },
+    {
+        "id": 812610,
+        "full_name": "guard/guard",
+        "stargazers_count": 6438
+    },
+    {
+        "id": 12004006,
+        "full_name": "hanami/hanami",
+        "stargazers_count": 6406
+    },
+    {
+        "id": 10865,
+        "full_name": "norman/friendly_id",
+        "stargazers_count": 6225
+    },
+    {
+        "id": 375388,
+        "full_name": "ryanb/cancan",
+        "stargazers_count": 6204
+    },
+    {
+        "id": 672136,
+        "full_name": "ddollar/foreman",
+        "stargazers_count": 6159
+    },
+    {
+        "id": 10431787,
+        "full_name": "felixonmars/dnsmasq-china-list",
+        "stargazers_count": 6121
+    },
+    {
+        "id": 535266,
+        "full_name": "vcr/vcr",
+        "stargazers_count": 6073
+    },
+    {
+        "id": 355893,
+        "full_name": "github/markup",
+        "stargazers_count": 6047
+    },
+    {
+        "id": 19290579,
+        "full_name": "venmo/synx",
+        "stargazers_count": 6040
+    },
+    {
+        "id": 6768710,
+        "full_name": "redmine/redmine",
+        "stargazers_count": 6028
+    },
+    {
+        "id": 261335,
+        "full_name": "progit/progit",
+        "stargazers_count": 5977
+    },
+    {
+        "id": 417389,
+        "full_name": "lostisland/faraday",
+        "stargazers_count": 5950
+    },
+    {
+        "id": 39706711,
+        "full_name": "hartator/wayback-machine-downloader",
+        "stargazers_count": 5935
+    },
+    {
+        "id": 37997,
+        "full_name": "jnunemaker/httparty",
+        "stargazers_count": 5897
+    },
+    {
+        "id": 3898922,
+        "full_name": "zammad/zammad",
+        "stargazers_count": 5888
+    },
+    {
+        "id": 1548802,
+        "full_name": "activerecord-hackery/ransack",
+        "stargazers_count": 5860
+    },
+    {
+        "id": 11607598,
+        "full_name": "ruby-concurrency/concurrent-ruby",
+        "stargazers_count": 5831
+    },
+    {
+        "id": 5219382,
+        "full_name": "rack/rack-attack",
+        "stargazers_count": 5760
+    },
+    {
+        "id": 93163073,
+        "full_name": "dependabot/dependabot-core",
+        "stargazers_count": 5755
+    },
+    {
+        "id": 25155580,
+        "full_name": "fastruby/fast-ruby",
+        "stargazers_count": 5735
+    },
+    {
+        "id": 10750276,
+        "full_name": "square/maximum-awesome",
+        "stargazers_count": 5698
+    },
+    {
+        "id": 43347873,
+        "full_name": "danger/danger",
+        "stargazers_count": 5689
+    },
+    {
+        "id": 16994115,
+        "full_name": "CanCanCommunity/cancancan",
+        "stargazers_count": 5684
+    },
+    {
+        "id": 1227,
+        "full_name": "mislav/will_paginate",
+        "stargazers_count": 5683
+    },
+    {
+        "id": 2832871,
+        "full_name": "sferik/x-cli",
+        "stargazers_count": 5582
+    },
+    {
+        "id": 2802565,
+        "full_name": "doorkeeper-gem/doorkeeper",
+        "stargazers_count": 5521
+    },
+    {
+        "id": 189010173,
+        "full_name": "Hackplayers/evil-winrm",
+        "stargazers_count": 5463
+    },
+    {
+        "id": 30337170,
+        "full_name": "rmosolgo/graphql-ruby",
+        "stargazers_count": 5443
+    },
+    {
+        "id": 906150,
+        "full_name": "slim-template/slim",
+        "stargazers_count": 5376
+    },
+    {
+        "id": 2889230,
+        "full_name": "rails-api/active_model_serializers",
+        "stargazers_count": 5341
+    },
+    {
+        "id": 30985840,
+        "full_name": "solidusio/solidus",
+        "stargazers_count": 5324
+    },
+    {
+        "id": 1980539,
+        "full_name": "drapergem/draper",
+        "stargazers_count": 5275
+    },
+    {
+        "id": 447184,
+        "full_name": "rspec/rspec-rails",
+        "stargazers_count": 5273
+    },
+    {
+        "id": 75785147,
+        "full_name": "rails/webpacker",
+        "stargazers_count": 5272
+    },
+    {
+        "id": 15257,
+        "full_name": "rails/thor",
+        "stargazers_count": 5264
+    },
+    {
+        "id": 1734,
+        "full_name": "aasm/aasm",
+        "stargazers_count": 5232
+    },
+    {
+        "id": 7497,
+        "full_name": "formtastic/formtastic",
+        "stargazers_count": 5213
+    },
+    {
+        "id": 10664,
+        "full_name": "cucumber/cucumber-ruby",
+        "stargazers_count": 5213
+    },
+    {
+        "id": 404319,
+        "full_name": "rest-client/rest-client",
+        "stargazers_count": 5212
+    },
+    {
+        "id": 4523235,
+        "full_name": "asciidoctor/asciidoctor",
+        "stargazers_count": 5210
+    },
+    {
+        "id": 41117523,
+        "full_name": "shakacode/react_on_rails",
+        "stargazers_count": 5191
+    },
+    {
+        "id": 95798441,
+        "full_name": "athityakumar/colorls",
+        "stargazers_count": 5135
+    },
+    {
+        "id": 3748229,
+        "full_name": "rails-api/rails-api",
+        "stargazers_count": 5130
+    },
+    {
+        "id": 96071,
+        "full_name": "rack/rack",
+        "stargazers_count": 5128
+    },
+    {
+        "id": 5954,
+        "full_name": "jeremyevans/sequel",
+        "stargazers_count": 5093
+    },
+    {
+        "id": 253024215,
+        "full_name": "hahwul/WebHackersWeapons",
+        "stargazers_count": 5050
+    },
+    {
+        "id": 119760423,
+        "full_name": "Netflix/fast_jsonapi",
+        "stargazers_count": 5030
+    },
+    {
+        "id": 115859973,
+        "full_name": "ddnexus/pagy",
+        "stargazers_count": 4991
+    },
+    {
+        "id": 4828,
+        "full_name": "mbleigh/acts-as-taggable-on",
+        "stargazers_count": 4988
+    },
+    {
+        "id": 52316423,
+        "full_name": "react-native-config/react-native-config",
+        "stargazers_count": 4956
+    },
+    {
+        "id": 184366,
+        "full_name": "opal/opal",
+        "stargazers_count": 4928
+    },
+    {
+        "id": 839336,
+        "full_name": "simplecov-ruby/simplecov",
+        "stargazers_count": 4919
+    },
+    {
+        "id": 103766152,
+        "full_name": "github/explore",
+        "stargazers_count": 4877
+    },
+    {
+        "id": 488514,
+        "full_name": "rubygems/bundler",
+        "stargazers_count": 4874
+    },
+    {
+        "id": 323788,
+        "full_name": "backup/backup",
+        "stargazers_count": 4856
+    },
+    {
+        "id": 283230219,
+        "full_name": "red-data-tools/YouPlot",
+        "stargazers_count": 4846
+    },
+    {
+        "id": 5543112,
+        "full_name": "lobsters/lobsters",
+        "stargazers_count": 4822
+    },
+    {
+        "id": 7050,
+        "full_name": "prawnpdf/prawn",
+        "stargazers_count": 4821
+    },
+    {
+        "id": 2499845,
+        "full_name": "lolcommits/lolcommits",
+        "stargazers_count": 4819
+    },
+    {
+        "id": 7777332,
+        "full_name": "bbc/wraith",
+        "stargazers_count": 4819
+    },
+    {
+        "id": 24666294,
+        "full_name": "ankane/blazer",
+        "stargazers_count": 4795
+    },
+    {
+        "id": 47998454,
+        "full_name": "SteveLTN/https-portal",
+        "stargazers_count": 4693
+    },
+    {
+        "id": 5992293,
+        "full_name": "nomad-cli/shenzhen",
+        "stargazers_count": 4631
+    },
+    {
+        "id": 10088951,
+        "full_name": "TheOdinProject/theodinproject",
+        "stargazers_count": 4605
+    },
+    {
+        "id": 18294,
+        "full_name": "activemerchant/active_merchant",
+        "stargazers_count": 4599
+    },
+    {
+        "id": 1038494975,
+        "full_name": "basecamp/once-campfire",
+        "stargazers_count": 4577
+    },
+    {
+        "id": 507,
+        "full_name": "sferik/twitter-ruby",
+        "stargazers_count": 4572
+    },
+    {
+        "id": 2981455,
+        "full_name": "github/gemoji",
+        "stargazers_count": 4534
+    },
+    {
+        "id": 76692542,
+        "full_name": "octobox/octobox",
+        "stargazers_count": 4482
+    },
+    {
+        "id": 1462,
+        "full_name": "ctran/annotate_models",
+        "stargazers_count": 4480
+    },
+    {
+        "id": 17204381,
+        "full_name": "ankane/ahoy",
+        "stargazers_count": 4479
+    },
+    {
+        "id": 10910,
+        "full_name": "sparklemotion/mechanize",
+        "stargazers_count": 4440
+    },
+    {
+        "id": 46698467,
+        "full_name": "ankane/strong_migrations",
+        "stargazers_count": 4440
+    },
+    {
+        "id": 2861056,
+        "full_name": "rails/jbuilder",
+        "stargazers_count": 4421
+    },
+    {
+        "id": 120575426,
+        "full_name": "blackcandy-org/blackcandy",
+        "stargazers_count": 4409
+    },
+    {
+        "id": 5275559,
+        "full_name": "thoughtbot/neat",
+        "stargazers_count": 4359
+    },
+    {
+        "id": 4518079,
+        "full_name": "mina-deploy/mina",
+        "stargazers_count": 4353
+    },
+    {
+        "id": 67451,
+        "full_name": "binarylogic/authlogic",
+        "stargazers_count": 4343
+    },
+    {
+        "id": 924568745,
+        "full_name": "crmne/ruby_llm",
+        "stargazers_count": 4336
+    },
+    {
+        "id": 203666,
+        "full_name": "fog/fog",
+        "stargazers_count": 4298
+    },
+    {
+        "id": 43371,
+        "full_name": "eventmachine/eventmachine",
+        "stargazers_count": 4276
+    },
+    {
+        "id": 816197,
+        "full_name": "errbit/errbit",
+        "stargazers_count": 4270
+    },
+    {
+        "id": 275303,
+        "full_name": "grosser/parallel",
+        "stargazers_count": 4264
+    },
+    {
+        "id": 32841259,
+        "full_name": "dtan4/terraforming",
+        "stargazers_count": 4255
+    },
+    {
+        "id": 194554883,
+        "full_name": "noraj/OSCP-Exam-Report-Template-Markdown",
+        "stargazers_count": 4193
+    },
+    {
+        "id": 359371,
+        "full_name": "flyerhzm/rails_best_practices",
+        "stargazers_count": 4158
+    },
+    {
+        "id": 558790,
+        "full_name": "zdennis/activerecord-import",
+        "stargazers_count": 4154
+    },
+    {
+        "id": 132108,
+        "full_name": "typhoeus/typhoeus",
+        "stargazers_count": 4133
+    },
+    {
+        "id": 9255495,
+        "full_name": "stringer-rss/stringer",
+        "stargazers_count": 4131
+    },
+    {
+        "id": 49515,
+        "full_name": "troessner/reek",
+        "stargazers_count": 4128
+    },
+    {
+        "id": 923028,
+        "full_name": "voormedia/rails-erd",
+        "stargazers_count": 4104
+    },
+    {
+        "id": 592743,
+        "full_name": "awesome-print/awesome_print",
+        "stargazers_count": 4077
+    },
+    {
+        "id": 363163,
+        "full_name": "bblimke/webmock",
+        "stargazers_count": 4049
+    },
+    {
+        "id": 861781,
+        "full_name": "Arachni/arachni",
+        "stargazers_count": 4043
+    },
+    {
+        "id": 666566,
+        "full_name": "thoughtbot/suspenders",
+        "stargazers_count": 4042
+    },
+    {
+        "id": 15035229,
+        "full_name": "xcpretty/xcpretty",
+        "stargazers_count": 4036
+    },
+    {
+        "id": 38867,
+        "full_name": "svenfuchs/rails-i18n",
+        "stargazers_count": 4032
+    },
+    {
+        "id": 2851354,
+        "full_name": "kneath/kss",
+        "stargazers_count": 4016
+    },
+    {
+        "id": 1520275,
+        "full_name": "sds/overcommit",
+        "stargazers_count": 4007
+    },
+    {
+        "id": 137805,
+        "full_name": "redis/redis-rb",
+        "stargazers_count": 4002
+    },
+    {
+        "id": 5144181,
+        "full_name": "flippercloud/flipper",
+        "stargazers_count": 3966
+    },
+    {
+        "id": 614070,
+        "full_name": "ruby/rubygems",
+        "stargazers_count": 3962
+    },
+    {
+        "id": 417862,
+        "full_name": "octokit/octokit.rb",
+        "stargazers_count": 3951
+    },
+    {
+        "id": 168370,
+        "full_name": "jruby/jruby",
+        "stargazers_count": 3916
+    },
+    {
+        "id": 309009,
+        "full_name": "mongodb/mongoid",
+        "stargazers_count": 3913
+    },
+    {
+        "id": 212862,
+        "full_name": "refinery/refinerycms",
+        "stargazers_count": 3907
+    },
+    {
+        "id": 12656803,
+        "full_name": "MiniProfiler/rack-mini-profiler",
+        "stargazers_count": 3905
+    },
+    {
+        "id": 69813387,
+        "full_name": "iberianpig/fusuma",
+        "stargazers_count": 3897
+    },
+    {
+        "id": 7967167,
+        "full_name": "airbnb/ruby",
+        "stargazers_count": 3892
+    },
+    {
+        "id": 31341,
+        "full_name": "ryanb/ruby-warrior",
+        "stargazers_count": 3889
+    },
+    {
+        "id": 1175581,
+        "full_name": "citation-style-language/styles",
+        "stargazers_count": 3888
+    },
+    {
+        "id": 9514413,
+        "full_name": "ankane/groupdate",
+        "stargazers_count": 3886
+    },
+    {
+        "id": 339567,
+        "full_name": "stefankroes/ancestry",
+        "stargazers_count": 3878
+    },
+    {
+        "id": 1549395,
+        "full_name": "celluloid/celluloid",
+        "stargazers_count": 3869
+    },
+    {
+        "id": 3842593,
+        "full_name": "ruby-china/homeland",
+        "stargazers_count": 3860
+    },
+    {
+        "id": 2344621,
+        "full_name": "ryanb/letter_opener",
+        "stargazers_count": 3841
+    },
+    {
+        "id": 2513898,
+        "full_name": "railsbridge/docs",
+        "stargazers_count": 3840
+    },
+    {
+        "id": 426,
+        "full_name": "haml/haml",
+        "stargazers_count": 3835
+    },
+    {
+        "id": 294972,
+        "full_name": "fnando/i18n-js",
+        "stargazers_count": 3810
+    },
+    {
+        "id": 61713,
+        "full_name": "defunkt/gist",
+        "stargazers_count": 3807
+    },
+    {
+        "id": 41003515,
+        "full_name": "cesarferreira/dryrun",
+        "stargazers_count": 3787
+    },
+    {
+        "id": 103458675,
+        "full_name": "openblockchains/awesome-blockchains",
+        "stargazers_count": 3779
+    },
+    {
+        "id": 12335495,
+        "full_name": "feedbin/feedbin",
+        "stargazers_count": 3778
+    },
+    {
+        "id": 22361,
+        "full_name": "trogdoro/xiki",
+        "stargazers_count": 3754
+    },
+    {
+        "id": 3910382,
+        "full_name": "laserlemon/figaro",
+        "stargazers_count": 3745
+    },
+    {
+        "id": 1559931,
+        "full_name": "solnic/virtus",
+        "stargazers_count": 3744
+    },
+    {
+        "id": 56125,
+        "full_name": "thoughtbot/clearance",
+        "stargazers_count": 3736
+    },
+    {
+        "id": 28438,
+        "full_name": "pluginaweek/state_machine",
+        "stargazers_count": 3722
+    },
+    {
+        "id": 1404127,
+        "full_name": "jwt/ruby-jwt",
+        "stargazers_count": 3685
+    },
+    {
+        "id": 7228264,
+        "full_name": "sds/scss-lint",
+        "stargazers_count": 3679
+    },
+    {
+        "id": 79352,
+        "full_name": "mikel/mail",
+        "stargazers_count": 3671
+    },
+    {
+        "id": 2050163,
+        "full_name": "aws/aws-sdk-ruby",
+        "stargazers_count": 3656
+    },
+    {
+        "id": 80571,
+        "full_name": "fatfreecrm/fat_free_crm",
+        "stargazers_count": 3630
+    },
+    {
+        "id": 1585433,
+        "full_name": "nesquena/rabl",
+        "stargazers_count": 3628
+    },
+    {
+        "id": 19283674,
+        "full_name": "scenic-views/scenic",
+        "stargazers_count": 3624
+    },
+    {
+        "id": 16774748,
+        "full_name": "hpyhacking/peatio",
+        "stargazers_count": 3600
+    },
+    {
+        "id": 1172597,
+        "full_name": "thoughtbot/shoulda-matchers",
+        "stargazers_count": 3581
+    },
+    {
+        "id": 3677872,
+        "full_name": "roidrage/lograge",
+        "stargazers_count": 3571
+    },
+    {
+        "id": 200302808,
+        "full_name": "ViewComponent/view_component",
+        "stargazers_count": 3570
+    },
+    {
+        "id": 229006,
+        "full_name": "mileszs/wicked_pdf",
+        "stargazers_count": 3570
+    },
+    {
+        "id": 623018,
+        "full_name": "arsduo/koala",
+        "stargazers_count": 3569
+    },
+    {
+        "id": 21333814,
+        "full_name": "lynndylanhurley/devise_token_auth",
+        "stargazers_count": 3568
+    },
+    {
+        "id": 62890617,
+        "full_name": "EugenMayer/docker-sync",
+        "stargazers_count": 3558
+    },
+    {
+        "id": 9500075,
+        "full_name": "ytti/oxidized",
+        "stargazers_count": 3543
+    },
+    {
+        "id": 203076,
+        "full_name": "grosser/parallel_tests",
+        "stargazers_count": 3518
+    },
+    {
+        "id": 13445293,
+        "full_name": "whitesmith/rubycritic",
+        "stargazers_count": 3501
+    },
+    {
+        "id": 16229580,
+        "full_name": "livoras/blog",
+        "stargazers_count": 3498
+    },
+    {
+        "id": 363,
+        "full_name": "collectiveidea/audited",
+        "stargazers_count": 3498
+    },
+    {
+        "id": 10955751,
+        "full_name": "trailblazer/trailblazer",
+        "stargazers_count": 3475
+    },
+    {
+        "id": 47600993,
+        "full_name": "ankane/pgsync",
+        "stargazers_count": 3472
+    },
+    {
+        "id": 11670330,
+        "full_name": "collectiveidea/interactor",
+        "stargazers_count": 3457
+    },
+    {
+        "id": 5627139,
+        "full_name": "rouge-ruby/rouge",
+        "stargazers_count": 3449
+    },
+    {
+        "id": 72991,
+        "full_name": "travisjeffery/timecop",
+        "stargazers_count": 3424
+    },
+    {
+        "id": 131505,
+        "full_name": "minitest/minitest",
+        "stargazers_count": 3410
+    },
+    {
+        "id": 263002466,
+        "full_name": "in3rsha/sha256-animation",
+        "stargazers_count": 3400
+    },
+    {
+        "id": 376635,
+        "full_name": "padrino/padrino-framework",
+        "stargazers_count": 3400
+    },
+    {
+        "id": 32324113,
+        "full_name": "oa414/objc-zen-book-cn",
+        "stargazers_count": 3389
+    },
+    {
+        "id": 19667838,
+        "full_name": "sketchplugins/plugin-directory",
+        "stargazers_count": 3385
+    },
+    {
+        "id": 188828946,
+        "full_name": "endoflife-date/endoflife.date",
+        "stargazers_count": 3368
+    },
+    {
+        "id": 5169664,
+        "full_name": "RailsApps/rails-composer",
+        "stargazers_count": 3361
+    },
+    {
+        "id": 8863313,
+        "full_name": "deivid-rodriguez/byebug",
+        "stargazers_count": 3350
+    },
+    {
+        "id": 9108797,
+        "full_name": "krisleech/wisper",
+        "stargazers_count": 3330
+    },
+    {
+        "id": 3077195,
+        "full_name": "plusjade/jekyll-bootstrap",
+        "stargazers_count": 3324
+    },
+    {
+        "id": 6118575,
+        "full_name": "FontCustom/fontcustom",
+        "stargazers_count": 3296
+    },
+    {
+        "id": 849558,
+        "full_name": "soffes/sstoolkit",
+        "stargazers_count": 3285
+    },
+    {
+        "id": 44935124,
+        "full_name": "shrinerb/shrine",
+        "stargazers_count": 3285
+    },
+    {
+        "id": 144,
+        "full_name": "mojombo/chronic",
+        "stargazers_count": 3252
+    },
+    {
+        "id": 26415499,
+        "full_name": "sagivo/algorithms",
+        "stargazers_count": 3244
+    },
+    {
+        "id": 182062,
+        "full_name": "thoughtbot/high_voltage",
+        "stargazers_count": 3235
+    },
+    {
+        "id": 7122663,
+        "full_name": "github/secure_headers",
+        "stargazers_count": 3226
+    },
+    {
+        "id": 65938895,
+        "full_name": "theswiftdev/awesome-xcode-extensions",
+        "stargazers_count": 3223
+    },
+    {
+        "id": 284824224,
+        "full_name": "alexrudall/ruby-openai",
+        "stargazers_count": 3222
+    },
+    {
+        "id": 51164398,
+        "full_name": "truffleruby/truffleruby",
+        "stargazers_count": 3220
+    },
+    {
+        "id": 15805577,
+        "full_name": "voltrb/volt",
+        "stargazers_count": 3195
+    },
+    {
+        "id": 3064003,
+        "full_name": "pglombardo/PasswordPusher",
+        "stargazers_count": 3179
+    },
+    {
+        "id": 1844503,
+        "full_name": "RolifyCommunity/rolify",
+        "stargazers_count": 3176
+    },
+    {
+        "id": 8666568,
+        "full_name": "peek/peek",
+        "stargazers_count": 3171
+    },
+    {
+        "id": 6177949,
+        "full_name": "apigy/selfstarter",
+        "stargazers_count": 3154
+    },
+    {
+        "id": 1336779,
+        "full_name": "defunkt/dotjs",
+        "stargazers_count": 3140
+    },
+    {
+        "id": 683939,
+        "full_name": "thoughtbot/factory_bot_rails",
+        "stargazers_count": 3138
+    },
+    {
+        "id": 230380675,
+        "full_name": "collabnix/kubelabs",
+        "stargazers_count": 3123
+    },
+    {
+        "id": 9927626,
+        "full_name": "layervault/psd.rb",
+        "stargazers_count": 3115
+    },
+    {
+        "id": 844146,
+        "full_name": "petergoldstein/dalli",
+        "stargazers_count": 3112
+    },
+    {
+        "id": 1723155,
+        "full_name": "gazay/gon",
+        "stargazers_count": 3101
+    },
+    {
+        "id": 41571541,
+        "full_name": "inspec/inspec",
+        "stargazers_count": 3086
+    },
+    {
+        "id": 316198,
+        "full_name": "mustache/mustache",
+        "stargazers_count": 3084
+    },
+    {
+        "id": 2524005,
+        "full_name": "httprb/http",
+        "stargazers_count": 3084
+    },
+    {
+        "id": 14238949,
+        "full_name": "elastic/elasticsearch-rails",
+        "stargazers_count": 3083
+    },
+    {
+        "id": 1347323,
+        "full_name": "nathanvda/cocoon",
+        "stargazers_count": 3072
+    },
+    {
+        "id": 3683692,
+        "full_name": "igrigorik/gharchive.org",
+        "stargazers_count": 3072
+    },
+    {
+        "id": 40407,
+        "full_name": "trailblazer/cells",
+        "stargazers_count": 3070
+    },
+    {
+        "id": 25273228,
+        "full_name": "zombocom/derailed_benchmarks",
+        "stargazers_count": 3063
+    },
+    {
+        "id": 370242,
+        "full_name": "hashie/hashie",
+        "stargazers_count": 3035
+    },
+    {
+        "id": 94398103,
+        "full_name": "socketry/falcon",
+        "stargazers_count": 3028
+    },
+    {
+        "id": 1518559,
+        "full_name": "eddiezane/lunchy",
+        "stargazers_count": 2998
+    },
+    {
+        "id": 25870036,
+        "full_name": "JXA-Cookbook/JXA-Cookbook",
+        "stargazers_count": 2998
+    },
+    {
+        "id": 242765280,
+        "full_name": "bensheldon/good_job",
+        "stargazers_count": 2993
+    },
+    {
+        "id": 1421024,
+        "full_name": "public-activity/public_activity",
+        "stargazers_count": 2990
+    },
+    {
+        "id": 114265475,
+        "full_name": "w181496/Web-CTF-Cheatsheet",
+        "stargazers_count": 2987
+    },
+    {
+        "id": 33866783,
+        "full_name": "SUSE/Portus",
+        "stargazers_count": 2981
+    },
+    {
+        "id": 143489,
+        "full_name": "DatabaseCleaner/database_cleaner",
+        "stargazers_count": 2965
+    },
+    {
+        "id": 5722466,
+        "full_name": "nomad-cli/houston",
+        "stargazers_count": 2949
+    },
+    {
+        "id": 678938,
+        "full_name": "pdfkit/pdfkit",
+        "stargazers_count": 2940
+    },
+    {
+        "id": 4011054,
+        "full_name": "curtis0x/fake-s3",
+        "stargazers_count": 2925
+    },
+    {
+        "id": 55288882,
+        "full_name": "d12frosted/homebrew-emacs-plus",
+        "stargazers_count": 2922
+    },
+    {
+        "id": 156555906,
+        "full_name": "standardrb/standard",
+        "stargazers_count": 2921
+    },
+    {
+        "id": 7913195,
+        "full_name": "onetimesecret/onetimesecret",
+        "stargazers_count": 2919
+    },
+    {
+        "id": 846195248,
+        "full_name": "CanineHQ/canine",
+        "stargazers_count": 2919
+    },
+    {
+        "id": 904810,
+        "full_name": "rubysherpas/paranoia",
+        "stargazers_count": 2914
+    },
+    {
+        "id": 258750,
+        "full_name": "theforeman/foreman",
+        "stargazers_count": 2913
+    },
+    {
+        "id": 781300,
+        "full_name": "fetlife/rollout",
+        "stargazers_count": 2904
+    },
+    {
+        "id": 3277842,
+        "full_name": "googleapis/google-api-ruby-client",
+        "stargazers_count": 2897
+    },
+    {
+        "id": 8512283,
+        "full_name": "zmoazeni/csscss",
+        "stargazers_count": 2893
+    },
+    {
+        "id": 70121,
+        "full_name": "RubyMoney/money",
+        "stargazers_count": 2880
+    },
+    {
+        "id": 3654364,
+        "full_name": "roo-rb/roo",
+        "stargazers_count": 2876
+    },
+    {
+        "id": 229187949,
+        "full_name": "shivammathur/homebrew-php",
+        "stargazers_count": 2873
+    },
+    {
+        "id": 2031640,
+        "full_name": "sensu/sensu",
+        "stargazers_count": 2865
+    },
+    {
+        "id": 2727,
+        "full_name": "minimagick/minimagick",
+        "stargazers_count": 2864
+    },
+    {
+        "id": 2337256,
+        "full_name": "dotless-de/vagrant-vbguest",
+        "stargazers_count": 2864
+    },
+    {
+        "id": 3058811,
+        "full_name": "zombocom/wicked",
+        "stargazers_count": 2851
+    },
+    {
+        "id": 239001,
+        "full_name": "rspec/rspec-metagem",
+        "stargazers_count": 2828
+    },
+    {
+        "id": 641512,
+        "full_name": "openstreetmap/openstreetmap-website",
+        "stargazers_count": 2819
+    },
+    {
+        "id": 56852742,
+        "full_name": "digininja/CeWL",
+        "stargazers_count": 2816
+    },
+    {
+        "id": 7362671,
+        "full_name": "rails/spring",
+        "stargazers_count": 2815
+    },
+    {
+        "id": 27949922,
+        "full_name": "hothero/awesome-rails-gem",
+        "stargazers_count": 2805
+    },
+    {
+        "id": 53374,
+        "full_name": "kpumuk/meta-tags",
+        "stargazers_count": 2801
+    },
+    {
+        "id": 502760,
+        "full_name": "danbooru/danbooru",
+        "stargazers_count": 2798
+    },
+    {
+        "id": 8133216,
+        "full_name": "rubysec/bundler-audit",
+        "stargazers_count": 2757
+    },
+    {
+        "id": 3012430,
+        "full_name": "github/janky",
+        "stargazers_count": 2743
+    },
+    {
+        "id": 81134943,
+        "full_name": "rails/bootsnap",
+        "stargazers_count": 2740
+    },
+    {
+        "id": 121828,
+        "full_name": "activeadmin/inherited_resources",
+        "stargazers_count": 2715
+    },
+    {
+        "id": 1122534,
+        "full_name": "comfy/comfortable-mexican-sofa",
+        "stargazers_count": 2708
+    },
+    {
+        "id": 1748446,
+        "full_name": "splitrb/split",
+        "stargazers_count": 2707
+    },
+    {
+        "id": 283022742,
+        "full_name": "excid3/noticed",
+        "stargazers_count": 2704
+    },
+    {
+        "id": 45671249,
+        "full_name": "buo/homebrew-cask-upgrade",
+        "stargazers_count": 2702
+    },
+    {
+        "id": 1539787,
+        "full_name": "play/play",
+        "stargazers_count": 2697
+    },
+    {
+        "id": 32958,
+        "full_name": "kanwei/algorithms",
+        "stargazers_count": 2697
+    },
+    {
+        "id": 14096802,
+        "full_name": "danmayer/coverband",
+        "stargazers_count": 2688
+    },
+    {
+        "id": 5967893,
+        "full_name": "influitive/apartment",
+        "stargazers_count": 2682
+    },
+    {
+        "id": 1309434,
+        "full_name": "DavyJonesLocker/client_side_validations",
+        "stargazers_count": 2680
+    },
+    {
+        "id": 412126,
+        "full_name": "scambra/devise_invitable",
+        "stargazers_count": 2674
+    },
+    {
+        "id": 11131276,
+        "full_name": "prontolabs/pronto",
+        "stargazers_count": 2670
+    },
+    {
+        "id": 56941978,
+        "full_name": "Linuxbrew/brew",
+        "stargazers_count": 2654
+    },
+    {
+        "id": 21629136,
+        "full_name": "objc-zen/objc-zen-book",
+        "stargazers_count": 2644
+    },
+    {
+        "id": 22670215,
+        "full_name": "Netflix-Skunkworks/Scumblr",
+        "stargazers_count": 2641
+    },
+    {
+        "id": 29811021,
+        "full_name": "X140Yu/Developing_iOS_8_Apps_With_Swift",
+        "stargazers_count": 2631
+    },
+    {
+        "id": 7705565,
+        "full_name": "brandonhilkert/sucker_punch",
+        "stargazers_count": 2630
+    },
+    {
+        "id": 2813939,
+        "full_name": "randym/axlsx",
+        "stargazers_count": 2627
+    },
+    {
+        "id": 4913644,
+        "full_name": "nomad-cli/cupertino",
+        "stargazers_count": 2621
+    },
+    {
+        "id": 12646170,
+        "full_name": "pluralsight/git-internals-pdf",
+        "stargazers_count": 2617
+    },
+    {
+        "id": 19437654,
+        "full_name": "pickhardt/betty",
+        "stargazers_count": 2602
+    },
+    {
+        "id": 33631352,
+        "full_name": "xcpretty/xcode-install",
+        "stargazers_count": 2602
+    },
+    {
+        "id": 2731301,
+        "full_name": "loomio/loomio",
+        "stargazers_count": 2595
+    },
+    {
+        "id": 108451413,
+        "full_name": "rubyonjets/jets",
+        "stargazers_count": 2590
+    },
+    {
+        "id": 329035,
+        "full_name": "aanand/git-up",
+        "stargazers_count": 2587
+    },
+    {
+        "id": 8044474,
+        "full_name": "mitchellh/vagrant-aws",
+        "stargazers_count": 2586
+    },
+    {
+        "id": 6049573,
+        "full_name": "boxen/our-boxen",
+        "stargazers_count": 2569
+    },
+    {
+        "id": 6108422,
+        "full_name": "design-patterns-in-ruby/design-patterns-in-ruby",
+        "stargazers_count": 2556
+    },
+    {
+        "id": 6778461,
+        "full_name": "fixerAPI/fixer",
+        "stargazers_count": 2550
+    },
+    {
+        "id": 668622,
+        "full_name": "thiagopradi/octopus",
+        "stargazers_count": 2542
+    },
+    {
+        "id": 6021947,
+        "full_name": "piotrmurach/tty",
+        "stargazers_count": 2530
+    },
+    {
+        "id": 8981131,
+        "full_name": "mizzy/serverspec",
+        "stargazers_count": 2520
+    },
+    {
+        "id": 35139417,
+        "full_name": "lisamelton/video_transcoding",
+        "stargazers_count": 2517
+    },
+    {
+        "id": 183303,
+        "full_name": "wardencommunity/warden",
+        "stargazers_count": 2513
+    },
+    {
+        "id": 11909954,
+        "full_name": "chromebrew/chromebrew",
+        "stargazers_count": 2512
+    },
+    {
+        "id": 481811,
+        "full_name": "lg/murder",
+        "stargazers_count": 2511
+    },
+    {
+        "id": 2642653,
+        "full_name": "Apipie/apipie-rails",
+        "stargazers_count": 2507
+    },
+    {
+        "id": 155606787,
+        "full_name": "lucasgomide/videos-pt.br-tecnologia",
+        "stargazers_count": 2506
+    },
+    {
+        "id": 39750413,
+        "full_name": "ankane/the-ultimate-guide-to-ruby-timeouts",
+        "stargazers_count": 2500
+    },
+    {
+        "id": 779276,
+        "full_name": "fnando/browser",
+        "stargazers_count": 2498
+    },
+    {
+        "id": 588508856,
+        "full_name": "rails/solid_queue",
+        "stargazers_count": 2491
+    },
+    {
+        "id": 9764362,
+        "full_name": "trailblazer/reform",
+        "stargazers_count": 2488
+    },
+    {
+        "id": 2661753,
+        "full_name": "teampoltergeist/poltergeist",
+        "stargazers_count": 2482
+    },
+    {
+        "id": 33225130,
+        "full_name": "helpyio/helpy",
+        "stargazers_count": 2471
+    },
+    {
+        "id": 356878986,
+        "full_name": "TrashUwU/PokeAssistant",
+        "stargazers_count": 2469
+    },
+    {
+        "id": 1643676,
+        "full_name": "lukes/ISO-3166-Countries-with-Regional-Codes",
+        "stargazers_count": 2469
+    },
+    {
+        "id": 556060,
+        "full_name": "ice-cube-ruby/ice_cube",
+        "stargazers_count": 2465
+    },
+    {
+        "id": 87380483,
+        "full_name": "socketry/async",
+        "stargazers_count": 2459
+    },
+    {
+        "id": 20037550,
+        "full_name": "ruby/rake",
+        "stargazers_count": 2459
+    },
+    {
+        "id": 545937,
+        "full_name": "technicalpickles/homesick",
+        "stargazers_count": 2453
+    },
+    {
+        "id": 18721570,
+        "full_name": "Chris911/iStats",
+        "stargazers_count": 2453
+    },
+    {
+        "id": 222777351,
+        "full_name": "bashly-framework/bashly",
+        "stargazers_count": 2447
+    },
+    {
+        "id": 6094,
+        "full_name": "jmettraux/rufus-scheduler",
+        "stargazers_count": 2446
+    },
+    {
+        "id": 4447023,
+        "full_name": "sharetribe/sharetribe",
+        "stargazers_count": 2445
+    },
+    {
+        "id": 117646,
+        "full_name": "rubygems/rubygems.org",
+        "stargazers_count": 2441
+    },
+    {
+        "id": 2725544,
+        "full_name": "CocoaPods/Xcodeproj",
+        "stargazers_count": 2441
+    },
+    {
+        "id": 109624,
+        "full_name": "gravityblast/web-app-theme",
+        "stargazers_count": 2439
+    },
+    {
+        "id": 21692,
+        "full_name": "edavis10/redmine",
+        "stargazers_count": 2438
+    },
+    {
+        "id": 26870928,
+        "full_name": "refile/refile",
+        "stargazers_count": 2433
+    },
+    {
+        "id": 1227666,
+        "full_name": "postrank-labs/goliath",
+        "stargazers_count": 2424
+    },
+    {
+        "id": 88690032,
+        "full_name": "jhawthorn/discard",
+        "stargazers_count": 2423
+    },
+    {
+        "id": 386126,
+        "full_name": "premailer/premailer",
+        "stargazers_count": 2416
+    },
+    {
+        "id": 912,
+        "full_name": "collectiveidea/awesome_nested_set",
+        "stargazers_count": 2410
+    },
+    {
+        "id": 1332134,
+        "full_name": "remi/teamocil",
+        "stargazers_count": 2409
+    },
+    {
+        "id": 92863796,
+        "full_name": "pedrozath/coltrane",
+        "stargazers_count": 2400
+    },
+    {
+        "id": 9043012,
+        "full_name": "vagrant-libvirt/vagrant-libvirt",
+        "stargazers_count": 2396
+    },
+    {
+        "id": 317981738,
+        "full_name": "hotwired/turbo-rails",
+        "stargazers_count": 2390
+    },
+    {
+        "id": 45316202,
+        "full_name": "franzejr/best-ruby",
+        "stargazers_count": 2382
+    },
+    {
+        "id": 1591828,
+        "full_name": "activerecord-hackery/squeel",
+        "stargazers_count": 2378
+    },
+    {
+        "id": 442308,
+        "full_name": "countries/countries",
+        "stargazers_count": 2360
+    },
+    {
+        "id": 81182710,
+        "full_name": "david942j/one_gadget",
+        "stargazers_count": 2347
+    },
+    {
+        "id": 152975883,
+        "full_name": "stimulusreflex/stimulus_reflex",
+        "stargazers_count": 2334
+    },
+    {
+        "id": 5262776,
+        "full_name": "gjtorikian/html-pipeline",
+        "stargazers_count": 2328
+    },
+    {
+        "id": 14000045,
+        "full_name": "que-rb/que",
+        "stargazers_count": 2325
+    },
+    {
+        "id": 18248068,
+        "full_name": "JSONAPI-Resources/jsonapi-resources",
+        "stargazers_count": 2324
+    },
+    {
+        "id": 791720,
+        "full_name": "locomotivecms/engine",
+        "stargazers_count": 2322
+    },
+    {
+        "id": 16490037,
+        "full_name": "jamesrwhite/minicron",
+        "stargazers_count": 2317
+    },
+    {
+        "id": 1307476,
+        "full_name": "NoamB/sorcery",
+        "stargazers_count": 2299
+    },
+    {
+        "id": 642152507,
+        "full_name": "apple/homebrew-apple",
+        "stargazers_count": 2280
+    },
+    {
+        "id": 588600,
+        "full_name": "brianmario/mysql2",
+        "stargazers_count": 2277
+    },
+    {
+        "id": 68,
+        "full_name": "macournoyer/thin",
+        "stargazers_count": 2275
+    },
+    {
+        "id": 39947871,
+        "full_name": "karafka/karafka",
+        "stargazers_count": 2254
+    },
+    {
+        "id": 80657370,
+        "full_name": "pay-rails/pay",
+        "stargazers_count": 2252
+    },
+    {
+        "id": 13441956,
+        "full_name": "jondot/sneakers",
+        "stargazers_count": 2236
+    },
+    {
+        "id": 37076,
+        "full_name": "wvanbergen/request-log-analyzer",
+        "stargazers_count": 2236
+    },
+    {
+        "id": 1942140,
+        "full_name": "galetahub/ckeditor",
+        "stargazers_count": 2224
+    },
+    {
+        "id": 88849240,
+        "full_name": "arbox/machine-learning-with-ruby",
+        "stargazers_count": 2223
+    },
+    {
+        "id": 28,
+        "full_name": "mojombo/god",
+        "stargazers_count": 2217
+    },
+    {
+        "id": 192268784,
+        "full_name": "orbitalindex/awesome-space",
+        "stargazers_count": 2215
+    },
+    {
+        "id": 9214768,
+        "full_name": "Linuxbrew/legacy-linuxbrew",
+        "stargazers_count": 2212
+    },
+    {
+        "id": 1338040,
+        "full_name": "otwcode/otwarchive",
+        "stargazers_count": 2209
+    },
+    {
+        "id": 9664,
+        "full_name": "thoughtbot/shoulda",
+        "stargazers_count": 2204
+    },
+    {
+        "id": 7408076,
+        "full_name": "rpush/rpush",
+        "stargazers_count": 2204
+    },
+    {
+        "id": 29151578,
+        "full_name": "rswag/rswag",
+        "stargazers_count": 2201
+    },
+    {
+        "id": 64552869,
+        "full_name": "LionSec/xerosploit",
+        "stargazers_count": 2201
+    },
+    {
+        "id": 5621246,
+        "full_name": "NatLabRockies/api-umbrella",
+        "stargazers_count": 2197
+    },
+    {
+        "id": 13461949,
+        "full_name": "tmm1/stackprof",
+        "stargazers_count": 2193
+    },
+    {
+        "id": 14731610,
+        "full_name": "pact-foundation/pact-ruby",
+        "stargazers_count": 2191
+    },
+    {
+        "id": 26094060,
+        "full_name": "logstash-plugins/logstash-patterns-core",
+        "stargazers_count": 2187
+    },
+    {
+        "id": 5152718,
+        "full_name": "mbj/mutant",
+        "stargazers_count": 2187
+    },
+    {
+        "id": 622911,
+        "full_name": "ruby-oauth/oauth2",
+        "stargazers_count": 2179
+    },
+    {
+        "id": 174796313,
+        "full_name": "ruby/rbs",
+        "stargazers_count": 2177
+    },
+    {
+        "id": 682,
+        "full_name": "tobi/delayed_job",
+        "stargazers_count": 2175
+    },
+    {
+        "id": 31038096,
+        "full_name": "adamcooke/staytus",
+        "stargazers_count": 2171
+    },
+    {
+        "id": 572993,
+        "full_name": "rubyconfig/config",
+        "stargazers_count": 2170
+    },
+    {
+        "id": 9228086,
+        "full_name": "trulia/hologram",
+        "stargazers_count": 2166
+    },
+    {
+        "id": 1953385,
+        "full_name": "stripe/stripe-ruby",
+        "stargazers_count": 2165
+    },
+    {
+        "id": 393390354,
+        "full_name": "motor-admin/motor-admin",
+        "stargazers_count": 2164
+    },
+    {
+        "id": 253476,
+        "full_name": "nanoc/nanoc",
+        "stargazers_count": 2157
+    },
+    {
+        "id": 10893519,
+        "full_name": "glebm/i18n-tasks",
+        "stargazers_count": 2156
+    },
+    {
+        "id": 807517,
+        "full_name": "globalize/globalize",
+        "stargazers_count": 2156
+    },
+    {
+        "id": 336387108,
+        "full_name": "manyfold3d/manyfold",
+        "stargazers_count": 2151
+    },
+    {
+        "id": 26821763,
+        "full_name": "eliotsykes/rspec-rails-examples",
+        "stargazers_count": 2148
+    },
+    {
+        "id": 10980701,
+        "full_name": "AaronLasseigne/active_interaction",
+        "stargazers_count": 2147
+    },
+    {
+        "id": 165262778,
+        "full_name": "fxn/zeitwerk",
+        "stargazers_count": 2138
+    },
+    {
+        "id": 270054,
+        "full_name": "ffi/ffi",
+        "stargazers_count": 2129
+    },
+    {
+        "id": 23578850,
+        "full_name": "ruby-shoryuken/shoryuken",
+        "stargazers_count": 2124
+    },
+    {
+        "id": 182410,
+        "full_name": "stephencelis/ghi",
+        "stargazers_count": 2120
+    },
+    {
+        "id": 4436959,
+        "full_name": "magnusvk/counter_culture",
+        "stargazers_count": 2118
+    },
+    {
+        "id": 2811234,
+        "full_name": "plamoni/SiriProxy",
+        "stargazers_count": 2116
+    },
+    {
+        "id": 10707658,
+        "full_name": "rom-rb/rom",
+        "stargazers_count": 2108
+    },
+    {
+        "id": 291884,
+        "full_name": "markevans/dragonfly",
+        "stargazers_count": 2105
+    },
+    {
+        "id": 108536,
+        "full_name": "feedjira/feedjira",
+        "stargazers_count": 2101
+    },
+    {
+        "id": 115215349,
+        "full_name": "pluosi/app-host",
+        "stargazers_count": 2100
+    },
+    {
+        "id": 26237573,
+        "full_name": "codekitchen/dinghy",
+        "stargazers_count": 2100
+    },
+    {
+        "id": 95328271,
+        "full_name": "ankane/dexter",
+        "stargazers_count": 2093
+    },
+    {
+        "id": 367591,
+        "full_name": "nateware/redis-objects",
+        "stargazers_count": 2092
+    },
+    {
+        "id": 190878115,
+        "full_name": "CombineCommunity/rxswift-to-combine-cheatsheet",
+        "stargazers_count": 2089
+    },
+    {
+        "id": 15318526,
+        "full_name": "interagent/prmd",
+        "stargazers_count": 2089
+    },
+    {
+        "id": 241560,
+        "full_name": "savonrb/savon",
+        "stargazers_count": 2085
+    },
+    {
+        "id": 300994,
+        "full_name": "mislav/git-deploy",
+        "stargazers_count": 2082
+    },
+    {
+        "id": 1330786,
+        "full_name": "brendon/acts_as_list",
+        "stargazers_count": 2080
+    },
+    {
+        "id": 3910314,
+        "full_name": "cloudfoundry/bosh",
+        "stargazers_count": 2077
+    },
+    {
+        "id": 16957977,
+        "full_name": "greasyfork-org/greasyfork",
+        "stargazers_count": 2077
+    },
+    {
+        "id": 20388420,
+        "full_name": "markdownlint/markdownlint",
+        "stargazers_count": 2076
+    },
+    {
+        "id": 3967647,
+        "full_name": "remi/her",
+        "stargazers_count": 2073
+    },
+    {
+        "id": 213751251,
+        "full_name": "syxanash/awesome-web-desktops",
+        "stargazers_count": 2069
+    },
+    {
+        "id": 114287404,
+        "full_name": "fastlane/ci",
+        "stargazers_count": 2067
+    },
+    {
+        "id": 7983886,
+        "full_name": "timdorr/tesla-api",
+        "stargazers_count": 2063
+    },
+    {
+        "id": 6607851,
+        "full_name": "airbnb/synapse",
+        "stargazers_count": 2062
+    },
+    {
+        "id": 392785,
+        "full_name": "heartcombo/responders",
+        "stargazers_count": 2058
+    },
+    {
+        "id": 96577,
+        "full_name": "rgrove/sanitize",
+        "stargazers_count": 2057
+    },
+    {
+        "id": 39015905,
+        "full_name": "nsarno/knock",
+        "stargazers_count": 2053
+    },
+    {
+        "id": 91713426,
+        "full_name": "test-prof/test-prof",
+        "stargazers_count": 2047
+    },
+    {
+        "id": 16147882,
+        "full_name": "dblock/fui",
+        "stargazers_count": 2045
+    },
+    {
+        "id": 198371388,
+        "full_name": "rubycdp/ferrum",
+        "stargazers_count": 2041
+    },
+    {
+        "id": 463648726,
+        "full_name": "Shopify/ruby-lsp",
+        "stargazers_count": 2037
+    },
+    {
+        "id": 1,
+        "full_name": "mojombo/grit",
+        "stargazers_count": 2035
+    },
+    {
+        "id": 372397,
+        "full_name": "ruby-prof/ruby-prof",
+        "stargazers_count": 2034
+    },
+    {
+        "id": 9824738,
+        "full_name": "deivid-rodriguez/pry-byebug",
+        "stargazers_count": 2029
+    },
+    {
+        "id": 726541,
+        "full_name": "ruboto/ruboto",
+        "stargazers_count": 2029
+    },
+    {
+        "id": 103175,
+        "full_name": "attr-encrypted/attr_encrypted",
+        "stargazers_count": 2018
+    },
+    {
+        "id": 1252,
+        "full_name": "lsegal/yard",
+        "stargazers_count": 2010
+    },
+    {
+        "id": 5141498,
+        "full_name": "junegunn/redis-stat",
+        "stargazers_count": 2010
+    },
+    {
+        "id": 85402340,
+        "full_name": "castwide/solargraph",
+        "stargazers_count": 2007
+    },
+    {
+        "id": 8970,
+        "full_name": "ambethia/recaptcha",
+        "stargazers_count": 2005
+    },
+    {
+        "id": 6485,
+        "full_name": "whomwah/rqrcode",
+        "stargazers_count": 2000
+    },
+    {
+        "id": 629651008,
+        "full_name": "patterns-ai-core/langchainrb",
+        "stargazers_count": 1993
+    },
+    {
+        "id": 67960206,
+        "full_name": "TrestleAdmin/trestle",
+        "stargazers_count": 1991
+    },
+    {
+        "id": 41890778,
+        "full_name": "remote-jp/remote-in-japan",
+        "stargazers_count": 1987
+    },
+    {
+        "id": 9831101,
+        "full_name": "elastic/elasticsearch-ruby",
+        "stargazers_count": 1978
+    },
+    {
+        "id": 197053097,
+        "full_name": "brotandgames/ciao",
+        "stargazers_count": 1977
+    },
+    {
+        "id": 8472417,
+        "full_name": "Shopify/identity_cache",
+        "stargazers_count": 1969
+    },
+    {
+        "id": 14990,
+        "full_name": "ryanb/nifty-generators",
+        "stargazers_count": 1967
+    },
+    {
+        "id": 33564006,
+        "full_name": "illacceptanything/illacceptanything",
+        "stargazers_count": 1960
+    },
+    {
+        "id": 3148139,
+        "full_name": "guard/listen",
+        "stargazers_count": 1960
+    },
+    {
+        "id": 14063942,
+        "full_name": "thoughtbot/gitsh",
+        "stargazers_count": 1959
+    },
+    {
+        "id": 1409544,
+        "full_name": "thoughtbot/capybara-webkit",
+        "stargazers_count": 1952
+    },
+    {
+        "id": 1764724,
+        "full_name": "ClosureTree/closure_tree",
+        "stargazers_count": 1944
+    },
+    {
+        "id": 12357002,
+        "full_name": "sidekiq-cron/sidekiq-cron",
+        "stargazers_count": 1943
+    },
+    {
+        "id": 117302,
+        "full_name": "rtomayko/tilt",
+        "stargazers_count": 1942
+    },
+    {
+        "id": 212813096,
+        "full_name": "lewagon/data-setup",
+        "stargazers_count": 1928
+    },
+    {
+        "id": 21716,
+        "full_name": "yob/pdf-reader",
+        "stargazers_count": 1928
+    },
+    {
+        "id": 40607511,
+        "full_name": "jeremyevans/rodauth",
+        "stargazers_count": 1927
+    },
+    {
+        "id": 61203,
+        "full_name": "Shopify/shopify_app",
+        "stargazers_count": 1927
+    },
+    {
+        "id": 131069410,
+        "full_name": "will/slacktyping",
+        "stargazers_count": 1926
+    },
+    {
+        "id": 51646640,
+        "full_name": "gregnavis/active_record_doctor",
+        "stargazers_count": 1916
+    },
+    {
+        "id": 50313848,
+        "full_name": "openjournals/joss",
+        "stargazers_count": 1915
+    },
+    {
+        "id": 1780853,
+        "full_name": "maid/maid",
+        "stargazers_count": 1910
+    },
+    {
+        "id": 298001192,
+        "full_name": "Shopify/packwerk",
+        "stargazers_count": 1908
+    },
+    {
+        "id": 12614368,
+        "full_name": "gocardless/statesman",
+        "stargazers_count": 1907
+    },
+    {
+        "id": 339809184,
+        "full_name": "charkost/prosopite",
+        "stargazers_count": 1907
+    },
+    {
+        "id": 344359,
+        "full_name": "hamstergem/hamster",
+        "stargazers_count": 1901
+    },
+    {
+        "id": 396901570,
+        "full_name": "RoseSecurity/Red-Teaming-TTPs",
+        "stargazers_count": 1900
+    },
+    {
+        "id": 15042048,
+        "full_name": "toptal/chewy",
+        "stargazers_count": 1899
+    },
+    {
+        "id": 2126953,
+        "full_name": "AssetSync/asset_sync",
+        "stargazers_count": 1892
+    },
+    {
+        "id": 4137249,
+        "full_name": "test-kitchen/test-kitchen",
+        "stargazers_count": 1891
+    },
+    {
+        "id": 667163,
+        "full_name": "github/github-services",
+        "stargazers_count": 1890
+    },
+    {
+        "id": 3833911,
+        "full_name": "RubyMoney/money-rails",
+        "stargazers_count": 1889
+    },
+    {
+        "id": 467296689,
+        "full_name": "bullet-train-co/bullet_train",
+        "stargazers_count": 1885
+    },
+    {
+        "id": 16449263,
+        "full_name": "ruby/did_you_mean",
+        "stargazers_count": 1882
+    },
+    {
+        "id": 624483417,
+        "full_name": "Mark24Code/rime-auto-deploy",
+        "stargazers_count": 1881
+    },
+    {
+        "id": 2883533,
+        "full_name": "welaika/wordmove",
+        "stargazers_count": 1880
+    },
+    {
+        "id": 459085733,
+        "full_name": "lazaronixon/authentication-zero",
+        "stargazers_count": 1874
+    },
+    {
+        "id": 11980558,
+        "full_name": "github/pages-gem",
+        "stargazers_count": 1872
+    },
+    {
+        "id": 2125665,
+        "full_name": "etsy/deployinator",
+        "stargazers_count": 1862
+    },
+    {
+        "id": 1700528,
+        "full_name": "soundcloud/lhm",
+        "stargazers_count": 1849
+    },
+    {
+        "id": 1337406,
+        "full_name": "karmi/retire",
+        "stargazers_count": 1847
+    },
+    {
+        "id": 291056,
+        "full_name": "redbooth/teambox",
+        "stargazers_count": 1838
+    },
+    {
+        "id": 1212717,
+        "full_name": "trailblazer/roar",
+        "stargazers_count": 1836
+    },
+    {
+        "id": 124404569,
+        "full_name": "lineofflight/frankfurter",
+        "stargazers_count": 1833
+    },
+    {
+        "id": 68647,
+        "full_name": "raganwald-deprecated/homoiconic",
+        "stargazers_count": 1832
+    },
+    {
+        "id": 30911832,
+        "full_name": "DamirSvrtan/fasterer",
+        "stargazers_count": 1823
+    },
+    {
+        "id": 34945282,
+        "full_name": "eliotsykes/real-world-rails",
+        "stargazers_count": 1822
+    },
+    {
+        "id": 48602573,
+        "full_name": "sinclairtarget/um",
+        "stargazers_count": 1817
+    },
+    {
+        "id": 297419763,
+        "full_name": "github/india",
+        "stargazers_count": 1816
+    },
+    {
+        "id": 45535958,
+        "full_name": "strongself/Generamba",
+        "stargazers_count": 1813
+    },
+    {
+        "id": 116063695,
+        "full_name": "snibox/snibox",
+        "stargazers_count": 1811
+    },
+    {
+        "id": 87855245,
+        "full_name": "brunofacca/zen-rails-security-checklist",
+        "stargazers_count": 1811
+    },
+    {
+        "id": 65914086,
+        "full_name": "decidim/decidim",
+        "stargazers_count": 1810
+    },
+    {
+        "id": 126739710,
+        "full_name": "AdoptOpenJDK/homebrew-openjdk",
+        "stargazers_count": 1806
+    },
+    {
+        "id": 341011,
+        "full_name": "twitter/twurl",
+        "stargazers_count": 1801
+    },
+    {
+        "id": 35720248,
+        "full_name": "enjoiz/XXEinjector",
+        "stargazers_count": 1801
+    },
+    {
+        "id": 6633847,
+        "full_name": "jeremycole/innodb_ruby",
+        "stargazers_count": 1800
+    },
+    {
+        "id": 113141,
+        "full_name": "geekq/workflow",
+        "stargazers_count": 1800
+    },
+    {
+        "id": 258990911,
+        "full_name": "avo-hq/avo",
+        "stargazers_count": 1799
+    },
+    {
+        "id": 468319,
+        "full_name": "hashrocket/decent_exposure",
+        "stargazers_count": 1798
+    },
+    {
+        "id": 3610323,
+        "full_name": "calabash/calabash-ios",
+        "stargazers_count": 1796
+    },
+    {
+        "id": 1262785,
+        "full_name": "pivotal/LicenseFinder",
+        "stargazers_count": 1795
+    },
+    {
+        "id": 130,
+        "full_name": "ruby-git/ruby-git",
+        "stargazers_count": 1795
+    },
+    {
+        "id": 977244,
+        "full_name": "MacRuby/MacRuby",
+        "stargazers_count": 1793
+    },
+    {
+        "id": 82580,
+        "full_name": "gettalong/kramdown",
+        "stargazers_count": 1782
+    },
+    {
+        "id": 468501,
+        "full_name": "ryanb/nested_form",
+        "stargazers_count": 1780
+    },
+    {
+        "id": 4173125,
+        "full_name": "gimite/google-drive-ruby",
+        "stargazers_count": 1777
+    },
+    {
+        "id": 11515100,
+        "full_name": "thbar/kiba",
+        "stargazers_count": 1776
+    },
+    {
+        "id": 3814699,
+        "full_name": "evanphx/benchmark-ips",
+        "stargazers_count": 1773
+    },
+    {
+        "id": 891574,
+        "full_name": "htty/htty",
+        "stargazers_count": 1770
+    },
+    {
+        "id": 3689879,
+        "full_name": "basecamp/marginalia",
+        "stargazers_count": 1768
+    },
+    {
+        "id": 8411796,
+        "full_name": "railwaycat/homebrew-emacsmacport",
+        "stargazers_count": 1767
+    },
+    {
+        "id": 12585141,
+        "full_name": "SamSaffron/memory_profiler",
+        "stargazers_count": 1766
+    },
+    {
+        "id": 1561299,
+        "full_name": "fphilipe/premailer-rails",
+        "stargazers_count": 1765
+    },
+    {
+        "id": 3264002,
+        "full_name": "brainspec/enumerize",
+        "stargazers_count": 1761
+    },
+    {
+        "id": 257882394,
+        "full_name": "alan-ai/alan-sdk-flutter",
+        "stargazers_count": 1756
+    },
+    {
+        "id": 20502024,
+        "full_name": "newrelic/centurion",
+        "stargazers_count": 1756
+    },
+    {
+        "id": 3698608,
+        "full_name": "sidekiq-scheduler/sidekiq-scheduler",
+        "stargazers_count": 1754
+    },
+    {
+        "id": 28635402,
+        "full_name": "philhagen/sof-elk",
+        "stargazers_count": 1753
+    },
+    {
+        "id": 14474326,
+        "full_name": "octopress/octopress",
+        "stargazers_count": 1747
+    },
+    {
+        "id": 444380,
+        "full_name": "resque/resque-scheduler",
+        "stargazers_count": 1746
+    },
+    {
+        "id": 13895958,
+        "full_name": "openfarmcc/OpenFarm",
+        "stargazers_count": 1732
+    },
+    {
+        "id": 1932,
+        "full_name": "dchelimsky/rspec",
+        "stargazers_count": 1728
+    },
+    {
+        "id": 1349627,
+        "full_name": "tmm1/rbtrace",
+        "stargazers_count": 1727
+    },
+    {
+        "id": 395276,
+        "full_name": "heartcombo/has_scope",
+        "stargazers_count": 1727
+    },
+    {
+        "id": 44931313,
+        "full_name": "jekyll/jekyll-seo-tag",
+        "stargazers_count": 1726
+    },
+    {
+        "id": 3829913,
+        "full_name": "websocket-rails/websocket-rails",
+        "stargazers_count": 1714
+    },
+    {
+        "id": 53192550,
+        "full_name": "iridakos/duckrails",
+        "stargazers_count": 1710
+    },
+    {
+        "id": 8449386,
+        "full_name": "devopsgroup-io/vagrant-digitalocean",
+        "stargazers_count": 1709
+    },
+    {
+        "id": 6673802,
+        "full_name": "24pullrequests/24pullrequests",
+        "stargazers_count": 1706
+    },
+    {
+        "id": 4614540,
+        "full_name": "joeyates/imap-backup",
+        "stargazers_count": 1703
+    },
+    {
+        "id": 2175854,
+        "full_name": "ErwinM/acts_as_tenant",
+        "stargazers_count": 1702
+    },
+    {
+        "id": 2149005,
+        "full_name": "railsware/js-routes",
+        "stargazers_count": 1699
+    },
+    {
+        "id": 144937,
+        "full_name": "cldwalker/hirb",
+        "stargazers_count": 1693
+    },
+    {
+        "id": 1748738,
+        "full_name": "mperham/connection_pool",
+        "stargazers_count": 1691
+    },
+    {
+        "id": 444184,
+        "full_name": "igrigorik/em-websocket",
+        "stargazers_count": 1688
+    },
+    {
+        "id": 1893681,
+        "full_name": "stevegraham/slanger",
+        "stargazers_count": 1687
+    },
+    {
+        "id": 597162,
+        "full_name": "streamio/streamio-ffmpeg",
+        "stargazers_count": 1685
+    },
+    {
+        "id": 56171308,
+        "full_name": "palkan/logidze",
+        "stargazers_count": 1684
+    },
+    {
+        "id": 3362065,
+        "full_name": "calabash/calabash-android",
+        "stargazers_count": 1680
+    },
+    {
+        "id": 27046,
+        "full_name": "radiant/radiant",
+        "stargazers_count": 1679
+    },
+    {
+        "id": 707752626,
+        "full_name": "Multiwoven/multiwoven",
+        "stargazers_count": 1673
+    },
+    {
+        "id": 9562528,
+        "full_name": "litaio/lita",
+        "stargazers_count": 1673
+    },
+    {
+        "id": 20772066,
+        "full_name": "salsify/goldiloader",
+        "stargazers_count": 1671
+    },
+    {
+        "id": 3352214,
+        "full_name": "excid3/simple_calendar",
+        "stargazers_count": 1666
+    },
+    {
+        "id": 10071490,
+        "full_name": "discourse/message_bus",
+        "stargazers_count": 1660
+    },
+    {
+        "id": 1362437,
+        "full_name": "mdp/rotp",
+        "stargazers_count": 1656
+    },
+    {
+        "id": 3295176,
+        "full_name": "asmuth/recommendify",
+        "stargazers_count": 1649
+    },
+    {
+        "id": 4439463,
+        "full_name": "contribsys/einhorn",
+        "stargazers_count": 1646
+    },
+    {
+        "id": 1110217,
+        "full_name": "voxpupuli/json-schema",
+        "stargazers_count": 1644
+    },
+    {
+        "id": 69245843,
+        "full_name": "adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver",
+        "stargazers_count": 1644
+    },
+    {
+        "id": 8451893,
+        "full_name": "gjtorikian/html-proofer",
+        "stargazers_count": 1643
+    },
+    {
+        "id": 3116268,
+        "full_name": "bootstrap-ruby/bootstrap_form",
+        "stargazers_count": 1643
+    },
+    {
+        "id": 1071489,
+        "full_name": "catarse/catarse",
+        "stargazers_count": 1639
+    },
+    {
+        "id": 18935740,
+        "full_name": "ifmeorg/ifme",
+        "stargazers_count": 1637
+    },
+    {
+        "id": 1449820,
+        "full_name": "mailboxer/mailboxer",
+        "stargazers_count": 1635
+    },
+    {
+        "id": 161859,
+        "full_name": "dennisreimann/ioctocat",
+        "stargazers_count": 1635
+    },
+    {
+        "id": 83470613,
+        "full_name": "coinbase/terraform-landscape",
+        "stargazers_count": 1627
+    },
+    {
+        "id": 82963,
+        "full_name": "geokit/geokit",
+        "stargazers_count": 1627
+    },
+    {
+        "id": 35964008,
+        "full_name": "guipdutra/awesome-geek-podcasts",
+        "stargazers_count": 1621
+    },
+    {
+        "id": 9122188,
+        "full_name": "mlandauer/cuttlefish",
+        "stargazers_count": 1621
+    },
+    {
+        "id": 7473367,
+        "full_name": "zed-0xff/zsteg",
+        "stargazers_count": 1621
+    },
+    {
+        "id": 11221453,
+        "full_name": "tenex/rails-assets",
+        "stargazers_count": 1620
+    },
+    {
+        "id": 9525,
+        "full_name": "pat/thinking-sphinx",
+        "stargazers_count": 1620
+    },
+    {
+        "id": 37300,
+        "full_name": "adzap/validates_timeliness",
+        "stargazers_count": 1615
+    },
+    {
+        "id": 7613509,
+        "full_name": "stripe-archive/mosql",
+        "stargazers_count": 1614
+    },
+    {
+        "id": 22601,
+        "full_name": "sporkmonger/addressable",
+        "stargazers_count": 1608
+    },
+    {
+        "id": 163880425,
+        "full_name": "ankane/lockbox",
+        "stargazers_count": 1608
+    },
+    {
+        "id": 4434126,
+        "full_name": "shoes/shoes4",
+        "stargazers_count": 1606
+    },
+    {
+        "id": 175761,
+        "full_name": "chriskite/anemone",
+        "stargazers_count": 1601
+    },
+    {
+        "id": 212010,
+        "full_name": "mongomapper/mongomapper",
+        "stargazers_count": 1598
+    },
+    {
+        "id": 6287880,
+        "full_name": "liftoffcli/liftoff",
+        "stargazers_count": 1598
+    },
+    {
+        "id": 102773976,
+        "full_name": "uohzxela/clean-code-ruby",
+        "stargazers_count": 1597
+    },
+    {
+        "id": 9949492,
+        "full_name": "thredded/thredded",
+        "stargazers_count": 1597
+    },
+    {
+        "id": 1735848,
+        "full_name": "codebrew/backbone-rails",
+        "stargazers_count": 1596
+    },
+    {
+        "id": 3570815,
+        "full_name": "plentz/lol_dba",
+        "stargazers_count": 1595
+    },
+    {
+        "id": 20755271,
+        "full_name": "SlatherOrg/slather",
+        "stargazers_count": 1593
+    },
+    {
+        "id": 7512078,
+        "full_name": "travis-ci/travis.rb",
+        "stargazers_count": 1593
+    },
+    {
+        "id": 130390,
+        "full_name": "jfelchner/ruby-progressbar",
+        "stargazers_count": 1593
+    },
+    {
+        "id": 330857119,
+        "full_name": "ElMassimo/vite_ruby",
+        "stargazers_count": 1592
+    },
+    {
+        "id": 34840276,
+        "full_name": "elastic/ansible-elasticsearch",
+        "stargazers_count": 1588
+    },
+    {
+        "id": 328128780,
+        "full_name": "rails/tailwindcss-rails",
+        "stargazers_count": 1587
+    },
+    {
+        "id": 93340,
+        "full_name": "geokit/geokit-rails",
+        "stargazers_count": 1585
+    },
+    {
+        "id": 1254797,
+        "full_name": "Casecommons/pg_search",
+        "stargazers_count": 1579
+    },
+    {
+        "id": 29809978,
+        "full_name": "vdaubry/github-awards",
+        "stargazers_count": 1578
+    },
+    {
+        "id": 102989,
+        "full_name": "tj/terminal-table",
+        "stargazers_count": 1575
+    },
+    {
+        "id": 473155,
+        "full_name": "ffaker/ffaker",
+        "stargazers_count": 1573
+    },
+    {
+        "id": 6015874,
+        "full_name": "boxen/boxen",
+        "stargazers_count": 1570
+    },
+    {
+        "id": 45350538,
+        "full_name": "piotrmurach/tty-prompt",
+        "stargazers_count": 1569
+    },
+    {
+        "id": 6313,
+        "full_name": "insoshi/insoshi",
+        "stargazers_count": 1565
+    },
+    {
+        "id": 42,
+        "full_name": "technoweenie/restful-authentication",
+        "stargazers_count": 1564
+    },
+    {
+        "id": 3106812,
+        "full_name": "steelThread/redmon",
+        "stargazers_count": 1563
+    },
+    {
+        "id": 127313360,
+        "full_name": "palkan/action_policy",
+        "stargazers_count": 1560
+    },
+    {
+        "id": 33212527,
+        "full_name": "RailsEventStore/rails_event_store",
+        "stargazers_count": 1554
+    },
+    {
+        "id": 3113269,
+        "full_name": "toy/image_optim",
+        "stargazers_count": 1550
+    },
+    {
+        "id": 5226110,
+        "full_name": "tilo/smarter_csv",
+        "stargazers_count": 1550
+    },
+    {
+        "id": 18018625,
+        "full_name": "benbalter/word-to-markdown",
+        "stargazers_count": 1550
+    },
+    {
+        "id": 1633771,
+        "full_name": "ilyakatz/data-migrate",
+        "stargazers_count": 1549
+    },
+    {
+        "id": 23025258,
+        "full_name": "orta/cocoapods-keys",
+        "stargazers_count": 1548
+    },
+    {
+        "id": 10299255,
+        "full_name": "haileys/rustboot",
+        "stargazers_count": 1548
+    },
+    {
+        "id": 1390405,
+        "full_name": "rubysherpas/forem",
+        "stargazers_count": 1548
+    },
+    {
+        "id": 39152554,
+        "full_name": "consuldemocracy/consuldemocracy",
+        "stargazers_count": 1547
+    },
+    {
+        "id": 463074,
+        "full_name": "geminabox/geminabox",
+        "stargazers_count": 1546
+    },
+    {
+        "id": 366200,
+        "full_name": "watir/watir",
+        "stargazers_count": 1544
+    },
+    {
+        "id": 5188602,
+        "full_name": "zoolutions/sidekiq-unique-jobs",
+        "stargazers_count": 1544
+    },
+    {
+        "id": 5418256,
+        "full_name": "hybridgroup/artoo",
+        "stargazers_count": 1541
+    },
+    {
+        "id": 16052303,
+        "full_name": "jalkoby/squasher",
+        "stargazers_count": 1537
+    },
+    {
+        "id": 2851574,
+        "full_name": "tute/merit",
+        "stargazers_count": 1529
+    },
+    {
+        "id": 360400,
+        "full_name": "assaf/vanity",
+        "stargazers_count": 1527
+    },
+    {
+        "id": 1326875,
+        "full_name": "charlotte-ruby/impressionist",
+        "stargazers_count": 1527
+    },
+    {
+        "id": 498774921,
+        "full_name": "yippee-fun/phlex",
+        "stargazers_count": 1527
+    },
+    {
+        "id": 1207793,
+        "full_name": "ryanto/acts_as_votable",
+        "stargazers_count": 1527
+    },
+    {
+        "id": 2150,
+        "full_name": "brynary/webrat",
+        "stargazers_count": 1526
+    },
+    {
+        "id": 2704356,
+        "full_name": "zquestz/omniauth-google-oauth2",
+        "stargazers_count": 1524
+    },
+    {
+        "id": 92826,
+        "full_name": "indirect/rails-footnotes",
+        "stargazers_count": 1521
+    },
+    {
+        "id": 952763,
+        "full_name": "radar/guides-old",
+        "stargazers_count": 1513
+    },
+    {
+        "id": 174603,
+        "full_name": "samg/timetrap",
+        "stargazers_count": 1510
+    },
+    {
+        "id": 2376,
+        "full_name": "ActsAsParanoid/acts_as_paranoid",
+        "stargazers_count": 1507
+    },
+    {
+        "id": 15211432,
+        "full_name": "gonzalo-bulnes/simple_token_authentication",
+        "stargazers_count": 1504
+    },
+    {
+        "id": 7202484,
+        "full_name": "steveklabnik/request_store",
+        "stargazers_count": 1500
+    },
+    {
+        "id": 173446,
+        "full_name": "redis-store/redis-store",
+        "stargazers_count": 1497
+    },
+    {
+        "id": 24757158,
+        "full_name": "usbarmory/usbarmory",
+        "stargazers_count": 1496
+    },
+    {
+        "id": 351406,
+        "full_name": "cloudhead/toto",
+        "stargazers_count": 1495
+    },
+    {
+        "id": 17228890,
+        "full_name": "Shopify/shipit-engine",
+        "stargazers_count": 1492
+    },
+    {
+        "id": 135191,
+        "full_name": "igrigorik/decisiontree",
+        "stargazers_count": 1490
+    },
+    {
+        "id": 960600,
+        "full_name": "senchalabs/jsduck",
+        "stargazers_count": 1489
+    },
+    {
+        "id": 34399150,
+        "full_name": "DomT4/homebrew-autoupdate",
+        "stargazers_count": 1489
+    },
+    {
+        "id": 144658313,
+        "full_name": "thisredone/rb",
+        "stargazers_count": 1488
+    },
+    {
+        "id": 86352893,
+        "full_name": "soutaro/steep",
+        "stargazers_count": 1488
+    },
+    {
+        "id": 3148715,
+        "full_name": "reenhanced/gitreflow",
+        "stargazers_count": 1488
+    },
+    {
+        "id": 24375548,
+        "full_name": "Shopify/semian",
+        "stargazers_count": 1486
+    },
+    {
+        "id": 12629415,
+        "full_name": "slack-notifier/slack-notifier",
+        "stargazers_count": 1486
+    },
+    {
+        "id": 297070,
+        "full_name": "defunkt/unicorn",
+        "stargazers_count": 1478
+    },
+    {
+        "id": 62023,
+        "full_name": "technicalpickles/jeweler",
+        "stargazers_count": 1472
+    },
+    {
+        "id": 6574532,
+        "full_name": "urbanadventurer/username-anarchy",
+        "stargazers_count": 1466
+    },
+    {
+        "id": 131496023,
+        "full_name": "GeorgeKaraszi/ActiveRecordExtended",
+        "stargazers_count": 1466
+    },
+    {
+        "id": 5130966,
+        "full_name": "codetriage/CodeTriage",
+        "stargazers_count": 1465
+    },
+    {
+        "id": 68418199,
+        "full_name": "Sorcery/sorcery",
+        "stargazers_count": 1464
+    },
+    {
+        "id": 9061947,
+        "full_name": "devopsgroup-io/vagrant-hostmanager",
+        "stargazers_count": 1463
+    },
+    {
+        "id": 4582893,
+        "full_name": "egonSchiele/contracts.ruby",
+        "stargazers_count": 1457
+    },
+    {
+        "id": 32689932,
+        "full_name": "kontena/kontena",
+        "stargazers_count": 1455
+    },
+    {
+        "id": 604354578,
+        "full_name": "oldmoe/litestack",
+        "stargazers_count": 1453
+    },
+    {
+        "id": 2781355,
+        "full_name": "zipmark/rspec_api_documentation",
+        "stargazers_count": 1452
+    },
+    {
+        "id": 21950,
+        "full_name": "rubber/rubber",
+        "stargazers_count": 1451
+    },
+    {
+        "id": 6324418,
+        "full_name": "rharriso/bower-rails",
+        "stargazers_count": 1450
+    },
+    {
+        "id": 212620037,
+        "full_name": "jsonapi-serializer/jsonapi-serializer",
+        "stargazers_count": 1447
+    },
+    {
+        "id": 11869638,
+        "full_name": "gottfrois/dashing-rails",
+        "stargazers_count": 1447
+    },
+    {
+        "id": 1318847,
+        "full_name": "facebookarchive/instagram-ruby-gem",
+        "stargazers_count": 1446
+    },
+    {
+        "id": 9268068,
+        "full_name": "noidontdig/gitdown",
+        "stargazers_count": 1446
+    },
+    {
+        "id": 627535,
+        "full_name": "soveran/cuba",
+        "stargazers_count": 1445
+    },
+    {
+        "id": 6154653,
+        "full_name": "gitlabhq/gitlab-ci",
+        "stargazers_count": 1445
+    },
+    {
+        "id": 42800785,
+        "full_name": "Shopify/graphql-batch",
+        "stargazers_count": 1441
+    },
+    {
+        "id": 20208662,
+        "full_name": "zendesk/samson",
+        "stargazers_count": 1441
+    },
+    {
+        "id": 13230264,
+        "full_name": "maccman/monocle",
+        "stargazers_count": 1438
+    },
+    {
+        "id": 9418724,
+        "full_name": "petems/tugboat",
+        "stargazers_count": 1438
+    },
+    {
+        "id": 108125,
+        "full_name": "mongodb/mongo-ruby-driver",
+        "stargazers_count": 1431
+    },
+    {
+        "id": 2404598,
+        "full_name": "bobthecow/genghis",
+        "stargazers_count": 1429
+    },
+    {
+        "id": 935822,
+        "full_name": "rubyzip/rubyzip",
+        "stargazers_count": 1427
+    },
+    {
+        "id": 8573419,
+        "full_name": "ankane/pretender",
+        "stargazers_count": 1426
+    },
+    {
+        "id": 38169179,
+        "full_name": "atipugin/telegram-bot-ruby",
+        "stargazers_count": 1425
+    },
+    {
+        "id": 1430734,
+        "full_name": "ruby-amqp/bunny",
+        "stargazers_count": 1425
+    },
+    {
+        "id": 20343475,
+        "full_name": "googleapis/google-cloud-ruby",
+        "stargazers_count": 1425
+    },
+    {
+        "id": 35223810,
+        "full_name": "fastlane/examples",
+        "stargazers_count": 1425
+    },
+    {
+        "id": 39532631,
+        "full_name": "dry-rb/dry-validation",
+        "stargazers_count": 1422
+    },
+    {
+        "id": 79269805,
+        "full_name": "Shopify/krane",
+        "stargazers_count": 1417
+    },
+    {
+        "id": 1761717,
+        "full_name": "RailsApps/rails_apps_composer",
+        "stargazers_count": 1416
+    },
+    {
+        "id": 800495,
+        "full_name": "rroblak/seed_dump",
+        "stargazers_count": 1414
+    },
+    {
+        "id": 12836074,
+        "full_name": "jewel/clearskies",
+        "stargazers_count": 1410
+    },
+    {
+        "id": 692113941,
+        "full_name": "rage-rb/rage",
+        "stargazers_count": 1409
+    },
+    {
+        "id": 66006871,
+        "full_name": "testdouble/suture",
+        "stargazers_count": 1409
+    },
+    {
+        "id": 474869,
+        "full_name": "kmuto/review",
+        "stargazers_count": 1407
+    },
+    {
+        "id": 12904305,
+        "full_name": "tybenz/vimdeck",
+        "stargazers_count": 1407
+    },
+    {
+        "id": 7703828,
+        "full_name": "grobie/soundcloud2000",
+        "stargazers_count": 1406
+    },
+    {
+        "id": 3428683,
+        "full_name": "evrone/quiet_assets",
+        "stargazers_count": 1406
+    },
+    {
+        "id": 358599,
+        "full_name": "rtomayko/ronn",
+        "stargazers_count": 1405
+    },
+    {
+        "id": 20724,
+        "full_name": "neo4jrb/activegraph",
+        "stargazers_count": 1405
+    },
+    {
+        "id": 3711416,
+        "full_name": "rails/activeresource",
+        "stargazers_count": 1405
+    },
+    {
+        "id": 20789757,
+        "full_name": "ManageIQ/manageiq",
+        "stargazers_count": 1399
+    },
+    {
+        "id": 9992805,
+        "full_name": "sous-chefs/docker",
+        "stargazers_count": 1398
+    },
+    {
+        "id": 3542,
+        "full_name": "topfunky/gruff",
+        "stargazers_count": 1398
+    },
+    {
+        "id": 334416586,
+        "full_name": "rails/kredis",
+        "stargazers_count": 1398
+    },
+    {
+        "id": 6300586,
+        "full_name": "cypriss/mutations",
+        "stargazers_count": 1396
+    },
+    {
+        "id": 141314250,
+        "full_name": "rubycdp/cuprite",
+        "stargazers_count": 1395
+    },
+    {
+        "id": 69963,
+        "full_name": "binarylogic/settingslogic",
+        "stargazers_count": 1391
+    },
+    {
+        "id": 307486,
+        "full_name": "twilio/twilio-ruby",
+        "stargazers_count": 1389
+    },
+    {
+        "id": 1032,
+        "full_name": "seven1m/onebody",
+        "stargazers_count": 1389
+    },
+    {
+        "id": 435649432,
+        "full_name": "hack-different/apple-knowledge",
+        "stargazers_count": 1385
+    },
+    {
+        "id": 9255872,
+        "full_name": "chrismccord/render_sync",
+        "stargazers_count": 1384
+    },
+    {
+        "id": 45668,
+        "full_name": "binarylogic/searchlogic",
+        "stargazers_count": 1383
+    },
+    {
+        "id": 205998,
+        "full_name": "sporkrb/spork",
+        "stargazers_count": 1383
+    },
+    {
+        "id": 23910841,
+        "full_name": "gettalong/hexapdf",
+        "stargazers_count": 1382
+    },
+    {
+        "id": 210738,
+        "full_name": "soveran/ohm",
+        "stargazers_count": 1382
+    },
+    {
+        "id": 223486,
+        "full_name": "sdsykes/fastimage",
+        "stargazers_count": 1380
+    },
+    {
+        "id": 166765782,
+        "full_name": "TideSec/Mars",
+        "stargazers_count": 1377
+    },
+    {
+        "id": 35079964,
+        "full_name": "github-education-resources/classroom",
+        "stargazers_count": 1377
+    },
+    {
+        "id": 3806475,
+        "full_name": "natew/obtvse",
+        "stargazers_count": 1376
+    },
+    {
+        "id": 20095954,
+        "full_name": "OpnTec/bodyapps-web",
+        "stargazers_count": 1373
+    },
+    {
+        "id": 3252442,
+        "full_name": "louismullie/treat",
+        "stargazers_count": 1367
+    },
+    {
+        "id": 6827131,
+        "full_name": "ivaldi/brimir",
+        "stargazers_count": 1366
+    },
+    {
+        "id": 196596188,
+        "full_name": "hahwul/XSpear",
+        "stargazers_count": 1364
+    },
+    {
+        "id": 16217814,
+        "full_name": "prat0318/json_resume",
+        "stargazers_count": 1364
+    },
+    {
+        "id": 253678724,
+        "full_name": "bridgetownrb/bridgetown",
+        "stargazers_count": 1364
+    },
+    {
+        "id": 77745119,
+        "full_name": "eliotsykes/rails-security-checklist",
+        "stargazers_count": 1361
+    },
+    {
+        "id": 2278820,
+        "full_name": "pry/pry-rails",
+        "stargazers_count": 1361
+    },
+    {
+        "id": 6405017,
+        "full_name": "thoughtbot/griddler",
+        "stargazers_count": 1359
+    },
+    {
+        "id": 2770180,
+        "full_name": "felipecsl/wombat",
+        "stargazers_count": 1359
+    },
+    {
+        "id": 39528049,
+        "full_name": "ossf/best-practices-badge",
+        "stargazers_count": 1358
+    },
+    {
+        "id": 13509658,
+        "full_name": "garybernhardt/selecta",
+        "stargazers_count": 1358
+    },
+    {
+        "id": 2581086,
+        "full_name": "antirez/lamernews",
+        "stargazers_count": 1356
+    },
+    {
+        "id": 257260,
+        "full_name": "active-hash/active_hash",
+        "stargazers_count": 1355
+    },
+    {
+        "id": 153204,
+        "full_name": "heroku/legacy-cli",
+        "stargazers_count": 1354
+    },
+    {
+        "id": 3230143,
+        "full_name": "davidcelis/recommendable",
+        "stargazers_count": 1354
+    },
+    {
+        "id": 167499523,
+        "full_name": "tryzealot/zealot",
+        "stargazers_count": 1352
+    },
+    {
+        "id": 7810077,
+        "full_name": "maccman/abba",
+        "stargazers_count": 1351
+    },
+    {
+        "id": 52624124,
+        "full_name": "westonganger/spreadsheet_architect",
+        "stargazers_count": 1349
+    },
+    {
+        "id": 1024839,
+        "full_name": "Mange/roadie",
+        "stargazers_count": 1348
+    },
+    {
+        "id": 70123996,
+        "full_name": "bibendi/dip",
+        "stargazers_count": 1347
+    },
+    {
+        "id": 18209875,
+        "full_name": "Eric-Guo/wechat",
+        "stargazers_count": 1346
+    },
+    {
+        "id": 3091591,
+        "full_name": "emberjs/ember-rails",
+        "stargazers_count": 1343
+    },
+    {
+        "id": 1666784,
+        "full_name": "github/developer.github.com",
+        "stargazers_count": 1338
+    },
+    {
+        "id": 109621263,
+        "full_name": "mikker/passwordless",
+        "stargazers_count": 1338
+    },
+    {
+        "id": 34736869,
+        "full_name": "NationalSecurityAgency/SIMP",
+        "stargazers_count": 1336
+    },
+    {
+        "id": 489955136,
+        "full_name": "sudara/awesome-juce",
+        "stargazers_count": 1333
+    },
+    {
+        "id": 34274,
+        "full_name": "taf2/curb",
+        "stargazers_count": 1331
+    },
+    {
+        "id": 608824,
+        "full_name": "bokmann/business_time",
+        "stargazers_count": 1330
+    },
+    {
+        "id": 7988633,
+        "full_name": "desktoppr/wbench",
+        "stargazers_count": 1330
+    },
+    {
+        "id": 1072713,
+        "full_name": "thoughtbot/appraisal",
+        "stargazers_count": 1325
+    },
+    {
+        "id": 3642943,
+        "full_name": "elixir-editors/vim-elixir",
+        "stargazers_count": 1325
+    },
+    {
+        "id": 4357713,
+        "full_name": "twitter/activerecord-reputation-system",
+        "stargazers_count": 1323
+    },
+    {
+        "id": 959090,
+        "full_name": "guard/guard-rspec",
+        "stargazers_count": 1323
+    },
+    {
+        "id": 126601100,
+        "full_name": "leavez/cocoapods-binary",
+        "stargazers_count": 1321
+    },
+    {
+        "id": 620885,
+        "full_name": "basecamp/mail_view",
+        "stargazers_count": 1320
+    },
+    {
+        "id": 1005220,
+        "full_name": "holman/boom",
+        "stargazers_count": 1319
+    },
+    {
+        "id": 7401683,
+        "full_name": "JoshCheek/seeing_is_believing",
+        "stargazers_count": 1317
+    },
+    {
+        "id": 137203715,
+        "full_name": "Shopify/job-iteration",
+        "stargazers_count": 1316
+    },
+    {
+        "id": 62391559,
+        "full_name": "amatsuda/jb",
+        "stargazers_count": 1315
+    },
+    {
+        "id": 64154661,
+        "full_name": "TheAlgorithms/Ruby",
+        "stargazers_count": 1315
+    },
+    {
+        "id": 3444030,
+        "full_name": "chef/omnibus",
+        "stargazers_count": 1315
+    },
+    {
+        "id": 177321,
+        "full_name": "matthuhiggins/foreigner",
+        "stargazers_count": 1315
+    },
+    {
+        "id": 26836747,
+        "full_name": "supermarin/YosemiteSanFranciscoFont",
+        "stargazers_count": 1312
+    },
+    {
+        "id": 99283495,
+        "full_name": "procore-oss/blueprinter",
+        "stargazers_count": 1311
+    },
+    {
+        "id": 8320946,
+        "full_name": "dergachev/screengif",
+        "stargazers_count": 1309
+    },
+    {
+        "id": 119955,
+        "full_name": "JEG2/highline",
+        "stargazers_count": 1308
+    },
+    {
+        "id": 51515624,
+        "full_name": "stelligent/cfn_nag",
+        "stargazers_count": 1308
+    },
+    {
+        "id": 745996,
+        "full_name": "samg/diffy",
+        "stargazers_count": 1307
+    },
+    {
+        "id": 19710915,
+        "full_name": "devise-two-factor/devise-two-factor",
+        "stargazers_count": 1307
+    },
+    {
+        "id": 297674098,
+        "full_name": "Shopify/maintenance_tasks",
+        "stargazers_count": 1306
+    },
+    {
+        "id": 3179770,
+        "full_name": "square/cane",
+        "stargazers_count": 1305
+    },
+    {
+        "id": 1602291,
+        "full_name": "cloudfoundry-attic/vcap",
+        "stargazers_count": 1304
+    },
+    {
+        "id": 10312708,
+        "full_name": "travis-ci/dpl",
+        "stargazers_count": 1298
+    },
+    {
+        "id": 79618507,
+        "full_name": "fluent/fluentd-kubernetes-daemonset",
+        "stargazers_count": 1297
+    },
+    {
+        "id": 78737622,
+        "full_name": "waiting-for-dev/devise-jwt",
+        "stargazers_count": 1291
+    },
+    {
+        "id": 17783699,
+        "full_name": "ttscoff/doing",
+        "stargazers_count": 1290
+    },
+    {
+        "id": 2302592,
+        "full_name": "inukshuk/anystyle",
+        "stargazers_count": 1288
+    },
+    {
+        "id": 51469702,
+        "full_name": "asmallteapot/cocoapods-playgrounds",
+        "stargazers_count": 1287
+    },
+    {
+        "id": 121792056,
+        "full_name": "vapor-community/awesome-vapor",
+        "stargazers_count": 1284
+    },
+    {
+        "id": 382449,
+        "full_name": "fazibear/colorize",
+        "stargazers_count": 1284
+    },
+    {
+        "id": 59509,
+        "full_name": "freerange/mocha",
+        "stargazers_count": 1284
+    },
+    {
+        "id": 49878403,
+        "full_name": "zendesk/ruby-kafka",
+        "stargazers_count": 1281
+    },
+    {
+        "id": 178828146,
+        "full_name": "KrauseFx/FxLifeSheet",
+        "stargazers_count": 1281
+    },
+    {
+        "id": 9370,
+        "full_name": "jashkenas/ruby-processing",
+        "stargazers_count": 1279
+    },
+    {
+        "id": 6257856,
+        "full_name": "openfoodfoundation/openfoodnetwork",
+        "stargazers_count": 1278
+    },
+    {
+        "id": 1587440,
+        "full_name": "powder-rb/powder",
+        "stargazers_count": 1278
+    },
+    {
+        "id": 329039148,
+        "full_name": "hahwul/MobileHackersWeapons",
+        "stargazers_count": 1277
+    },
+    {
+        "id": 22991474,
+        "full_name": "rails/globalid",
+        "stargazers_count": 1277
+    },
+    {
+        "id": 173723932,
+        "full_name": "truemail-rb/truemail",
+        "stargazers_count": 1276
+    },
+    {
+        "id": 122075,
+        "full_name": "davetron5000/gli",
+        "stargazers_count": 1274
+    },
+    {
+        "id": 16283275,
+        "full_name": "jasonlong/geo_pattern",
+        "stargazers_count": 1272
+    },
+    {
+        "id": 209731662,
+        "full_name": "ruby/debug",
+        "stargazers_count": 1272
+    },
+    {
+        "id": 280943,
+        "full_name": "mynyml/watchr",
+        "stargazers_count": 1272
+    },
+    {
+        "id": 2580835,
+        "full_name": "simi/omniauth-facebook",
+        "stargazers_count": 1267
+    },
+    {
+        "id": 3710607,
+        "full_name": "rails/strong_parameters",
+        "stargazers_count": 1260
+    },
+    {
+        "id": 39654581,
+        "full_name": "slack-ruby/slack-ruby-client",
+        "stargazers_count": 1260
+    },
+    {
+        "id": 96088,
+        "full_name": "rack/rack-contrib",
+        "stargazers_count": 1255
+    },
+    {
+        "id": 5617672,
+        "full_name": "jamonholmgren/ProMotion",
+        "stargazers_count": 1252
+    },
+    {
+        "id": 238986,
+        "full_name": "rspec/rspec-expectations",
+        "stargazers_count": 1251
+    },
+    {
+        "id": 4573607,
+        "full_name": "markets/invisible_captcha",
+        "stargazers_count": 1250
+    },
+    {
+        "id": 230088868,
+        "full_name": "pawurb/rails-pg-extras",
+        "stargazers_count": 1248
+    },
+    {
+        "id": 235976018,
+        "full_name": "igorkasyanchuk/rails_performance",
+        "stargazers_count": 1245
+    },
+    {
+        "id": 56999385,
+        "full_name": "ankane/pgslice",
+        "stargazers_count": 1244
+    },
+    {
+        "id": 38831886,
+        "full_name": "owen2345/camaleon-cms",
+        "stargazers_count": 1238
+    },
+    {
+        "id": 2057515,
+        "full_name": "TracksApp/tracks",
+        "stargazers_count": 1237
+    },
+    {
+        "id": 42626,
+        "full_name": "stffn/declarative_authorization",
+        "stargazers_count": 1234
+    },
+    {
+        "id": 6133,
+        "full_name": "mbleigh/seed-fu",
+        "stargazers_count": 1233
+    },
+    {
+        "id": 170321215,
+        "full_name": "DmitryTsepelev/store_model",
+        "stargazers_count": 1233
+    },
+    {
+        "id": 5665287,
+        "full_name": "freshshell/fresh",
+        "stargazers_count": 1229
+    },
+    {
+        "id": 207580518,
+        "full_name": "inertiajs/inertia-rails",
+        "stargazers_count": 1229
+    },
+    {
+        "id": 238972,
+        "full_name": "rspec/rspec-core",
+        "stargazers_count": 1228
+    },
+    {
+        "id": 15820215,
+        "full_name": "asciidoctor/asciidoctor-pdf",
+        "stargazers_count": 1227
+    },
+    {
+        "id": 447560,
+        "full_name": "ddollar/heroku-accounts",
+        "stargazers_count": 1224
+    },
+    {
+        "id": 18691569,
+        "full_name": "mattes/rotating-proxy",
+        "stargazers_count": 1220
+    },
+    {
+        "id": 3672542,
+        "full_name": "capistrano/sshkit",
+        "stargazers_count": 1219
+    },
+    {
+        "id": 27250737,
+        "full_name": "soulteary/Home-Network-Note",
+        "stargazers_count": 1215
+    },
+    {
+        "id": 45103,
+        "full_name": "igrigorik/em-http-request",
+        "stargazers_count": 1215
+    },
+    {
+        "id": 8608493,
+        "full_name": "brentd/xray-rails",
+        "stargazers_count": 1214
+    },
+    {
+        "id": 963547829,
+        "full_name": "Shopify/roast",
+        "stargazers_count": 1214
+    },
+    {
+        "id": 9228993,
+        "full_name": "ai/autoprefixer-rails",
+        "stargazers_count": 1210
+    },
+    {
+        "id": 991709,
+        "full_name": "drhenner/ror_ecommerce",
+        "stargazers_count": 1209
+    },
+    {
+        "id": 70148,
+        "full_name": "newrelic/newrelic-ruby-agent",
+        "stargazers_count": 1209
+    },
+    {
+        "id": 343104825,
+        "full_name": "messense/homebrew-macos-cross-toolchains",
+        "stargazers_count": 1206
+    },
+    {
+        "id": 4215244,
+        "full_name": "HipByte/RubyMotionSamples",
+        "stargazers_count": 1204
+    },
+    {
+        "id": 97322,
+        "full_name": "icalendar/icalendar",
+        "stargazers_count": 1204
+    },
+    {
+        "id": 12164926,
+        "full_name": "brandonhilkert/fucking_shell_scripts",
+        "stargazers_count": 1201
+    },
+    {
+        "id": 235342165,
+        "full_name": "okuramasafumi/alba",
+        "stargazers_count": 1201
+    },
+    {
+        "id": 3673495,
+        "full_name": "nathanl/authority",
+        "stargazers_count": 1197
+    },
+    {
+        "id": 2456210,
+        "full_name": "piotrmurach/github",
+        "stargazers_count": 1196
+    },
+    {
+        "id": 2484608,
+        "full_name": "cgriego/active_attr",
+        "stargazers_count": 1194
+    },
+    {
+        "id": 7366351,
+        "full_name": "kostya/eye",
+        "stargazers_count": 1193
+    },
+    {
+        "id": 8408825,
+        "full_name": "fgrehm/vagrant-lxc",
+        "stargazers_count": 1192
+    },
+    {
+        "id": 19231848,
+        "full_name": "ankane/ahoy_email",
+        "stargazers_count": 1192
+    },
+    {
+        "id": 155371995,
+        "full_name": "djezzzl/database_consistency",
+        "stargazers_count": 1192
+    },
+    {
+        "id": 146472360,
+        "full_name": "igorkasyanchuk/active_storage_validations",
+        "stargazers_count": 1191
+    },
+    {
+        "id": 123521,
+        "full_name": "ricardochimal/taps",
+        "stargazers_count": 1190
+    },
+    {
+        "id": 945879706,
+        "full_name": "yjacquin/fast-mcp",
+        "stargazers_count": 1189
+    },
+    {
+        "id": 87835,
+        "full_name": "email-spec/email-spec",
+        "stargazers_count": 1188
+    },
+    {
+        "id": 1294210,
+        "full_name": "QueueClassic/queue_classic",
+        "stargazers_count": 1187
+    },
+    {
+        "id": 129582,
+        "full_name": "oneclick/rubyinstaller",
+        "stargazers_count": 1184
+    },
+    {
+        "id": 1125022145,
+        "full_name": "clacky-ai/openclacky",
+        "stargazers_count": 1183
+    },
+    {
+        "id": 65303934,
+        "full_name": "roberdam/Xaddress",
+        "stargazers_count": 1182
+    },
+    {
+        "id": 52508748,
+        "full_name": "inket/update_xcode_plugins",
+        "stargazers_count": 1182
+    },
+    {
+        "id": 3311711,
+        "full_name": "leereilly/swot",
+        "stargazers_count": 1181
+    },
+    {
+        "id": 257003,
+        "full_name": "aanand/deadweight",
+        "stargazers_count": 1180
+    },
+    {
+        "id": 31787737,
+        "full_name": "BuffaloWill/oxml_xxe",
+        "stargazers_count": 1180
+    },
+    {
+        "id": 4216917,
+        "full_name": "rubymotion-community/BubbleWrap",
+        "stargazers_count": 1178
+    },
+    {
+        "id": 39773026,
+        "full_name": "k1LoW/awspec",
+        "stargazers_count": 1175
+    },
+    {
+        "id": 237594,
+        "full_name": "weppos/whois",
+        "stargazers_count": 1174
+    },
+    {
+        "id": 349203,
+        "full_name": "excon/excon",
+        "stargazers_count": 1173
+    },
+    {
+        "id": 1185560597,
+        "full_name": "mattprusak/autoresearch-genealogy",
+        "stargazers_count": 1170
+    },
+    {
+        "id": 17210493,
+        "full_name": "yorickpeterse/oga",
+        "stargazers_count": 1169
+    },
+    {
+        "id": 152987,
+        "full_name": "carmen-ruby/carmen",
+        "stargazers_count": 1167
+    },
+    {
+        "id": 125552,
+        "full_name": "noahd1/oink",
+        "stargazers_count": 1166
+    },
+    {
+        "id": 390548093,
+        "full_name": "rails/importmap-rails",
+        "stargazers_count": 1166
+    },
+    {
+        "id": 164151,
+        "full_name": "browsermedia/browsercms",
+        "stargazers_count": 1166
+    },
+    {
+        "id": 11361791,
+        "full_name": "jordansissel/pleaserun",
+        "stargazers_count": 1165
+    },
+    {
+        "id": 6125728,
+        "full_name": "daddyz/phonelib",
+        "stargazers_count": 1165
+    },
+    {
+        "id": 24641222,
+        "full_name": "librariesio/libraries.io",
+        "stargazers_count": 1156
+    },
+    {
+        "id": 364826,
+        "full_name": "documentcloud/jammit",
+        "stargazers_count": 1153
+    },
+    {
+        "id": 7336554,
+        "full_name": "andrewculver/koudoku",
+        "stargazers_count": 1153
+    },
+    {
+        "id": 9729334,
+        "full_name": "agiledivider/vagrant-hostsupdater",
+        "stargazers_count": 1152
+    },
+    {
+        "id": 1448839,
+        "full_name": "petewarden/dstk",
+        "stargazers_count": 1151
+    },
+    {
+        "id": 17838583,
+        "full_name": "CocoaPods/cocoapods-packager",
+        "stargazers_count": 1151
+    },
+    {
+        "id": 4017361,
+        "full_name": "zdavatz/spreadsheet",
+        "stargazers_count": 1150
+    },
+    {
+        "id": 89238822,
+        "full_name": "Telefonica/Eternalblue-Doublepulsar-Metasploit",
+        "stargazers_count": 1149
+    },
+    {
+        "id": 462071,
+        "full_name": "augustl/net-http-cheat-sheet",
+        "stargazers_count": 1148
+    },
+    {
+        "id": 238983,
+        "full_name": "rspec/rspec-mocks",
+        "stargazers_count": 1148
+    },
+    {
+        "id": 1504777,
+        "full_name": "james2m/seedbank",
+        "stargazers_count": 1145
+    },
+    {
+        "id": 2881201,
+        "full_name": "cryptosphere/cryptosphere",
+        "stargazers_count": 1144
+    },
+    {
+        "id": 1318,
+        "full_name": "sprinkle-tool/sprinkle",
+        "stargazers_count": 1143
+    },
+    {
+        "id": 23968707,
+        "full_name": "brooklynDev/airborne",
+        "stargazers_count": 1137
+    },
+    {
+        "id": 82801745,
+        "full_name": "shioyama/mobility",
+        "stargazers_count": 1136
+    },
+    {
+        "id": 92577373,
+        "full_name": "david942j/seccomp-tools",
+        "stargazers_count": 1136
+    },
+    {
+        "id": 6267184,
+        "full_name": "RailsApps/rails-stripe-membership-saas",
+        "stargazers_count": 1134
+    },
+    {
+        "id": 18639,
+        "full_name": "activescaffold/active_scaffold",
+        "stargazers_count": 1134
+    },
+    {
+        "id": 15393024,
+        "full_name": "itamae-kitchen/itamae",
+        "stargazers_count": 1133
+    },
+    {
+        "id": 5289,
+        "full_name": "bborn/communityengine",
+        "stargazers_count": 1132
+    },
+    {
+        "id": 1653,
+        "full_name": "defunkt/github-gem",
+        "stargazers_count": 1132
+    },
+    {
+        "id": 217049858,
+        "full_name": "alan-ai/alan-sdk-cordova",
+        "stargazers_count": 1132
+    },
+    {
+        "id": 92980181,
+        "full_name": "Shopify/cli-ui",
+        "stargazers_count": 1131
+    },
+    {
+        "id": 33281933,
+        "full_name": "madeintandem/jsonb_accessor",
+        "stargazers_count": 1128
+    },
+    {
+        "id": 2898239,
+        "full_name": "amatsuda/active_decorator",
+        "stargazers_count": 1128
+    },
+    {
+        "id": 4432054,
+        "full_name": "tumblr/jetpants",
+        "stargazers_count": 1126
+    },
+    {
+        "id": 1115691,
+        "full_name": "leejarvis/slop",
+        "stargazers_count": 1126
+    },
+    {
+        "id": 10674058,
+        "full_name": "upserve/docker-api",
+        "stargazers_count": 1124
+    },
+    {
+        "id": 98901089,
+        "full_name": "exAspArk/batch-loader",
+        "stargazers_count": 1123
+    },
+    {
+        "id": 17049675,
+        "full_name": "makandra/active_type",
+        "stargazers_count": 1123
+    },
+    {
+        "id": 61765009,
+        "full_name": "newcontext-oss/kitchen-terraform",
+        "stargazers_count": 1122
+    },
+    {
+        "id": 1274040,
+        "full_name": "huacnlee/rails-settings-cached",
+        "stargazers_count": 1122
+    },
+    {
+        "id": 936343,
+        "full_name": "ging/social_stream",
+        "stargazers_count": 1121
+    },
+    {
+        "id": 3472546,
+        "full_name": "jquery-ui-rails/jquery-ui-rails",
+        "stargazers_count": 1119
+    },
+    {
+        "id": 6326522,
+        "full_name": "envygeeks/jekyll-assets",
+        "stargazers_count": 1119
+    },
+    {
+        "id": 485962904,
+        "full_name": "jhawthorn/vernier",
+        "stargazers_count": 1118
+    },
+    {
+        "id": 119246604,
+        "full_name": "palkan/isolator",
+        "stargazers_count": 1118
+    },
+    {
+        "id": 21319293,
+        "full_name": "ridgepole/ridgepole",
+        "stargazers_count": 1117
+    },
+    {
+        "id": 6750715,
+        "full_name": "moneta-rb/moneta",
+        "stargazers_count": 1114
+    },
+    {
+        "id": 59997,
+        "full_name": "notahat/machinist",
+        "stargazers_count": 1112
+    },
+    {
+        "id": 5745583,
+        "full_name": "fxn/tkn",
+        "stargazers_count": 1112
+    },
+    {
+        "id": 38449382,
+        "full_name": "slack-ruby/slack-ruby-bot",
+        "stargazers_count": 1111
+    },
+    {
+        "id": 1889313,
+        "full_name": "bogdan/datagrid",
+        "stargazers_count": 1111
+    },
+    {
+        "id": 57495614,
+        "full_name": "kciter/awesome-style-guide",
+        "stargazers_count": 1110
+    },
+    {
+        "id": 51997542,
+        "full_name": "passbolt/passbolt_docker",
+        "stargazers_count": 1110
+    },
+    {
+        "id": 225463,
+        "full_name": "Shopify/shopify-api-ruby",
+        "stargazers_count": 1106
+    },
+    {
+        "id": 28240715,
+        "full_name": "jeffreywildman/homebrew-virt-manager",
+        "stargazers_count": 1104
+    },
+    {
+        "id": 314686,
+        "full_name": "tweetstream/tweetstream",
+        "stargazers_count": 1103
+    },
+    {
+        "id": 17872111,
+        "full_name": "chaps-io/gush",
+        "stargazers_count": 1101
+    },
+    {
+        "id": 5107466,
+        "full_name": "ruby-grape/grape-swagger",
+        "stargazers_count": 1100
+    },
+    {
+        "id": 72115697,
+        "full_name": "ledermann/docker-rails",
+        "stargazers_count": 1100
+    },
+    {
+        "id": 564719,
+        "full_name": "floere/phony",
+        "stargazers_count": 1094
+    },
+    {
+        "id": 1303125,
+        "full_name": "brendon/ranked-model",
+        "stargazers_count": 1093
+    },
+    {
+        "id": 62360,
+        "full_name": "chrisk/fakeweb",
+        "stargazers_count": 1086
+    },
+    {
+        "id": 145688703,
+        "full_name": "Studiosity/grover",
+        "stargazers_count": 1086
+    },
+    {
+        "id": 6100717,
+        "full_name": "tomgi/git_stats",
+        "stargazers_count": 1085
+    },
+    {
+        "id": 63791,
+        "full_name": "tj/commander",
+        "stargazers_count": 1085
+    },
+    {
+        "id": 5905144,
+        "full_name": "NARKOZ/gitlab",
+        "stargazers_count": 1085
+    },
+    {
+        "id": 2258398,
+        "full_name": "brianmario/charlock_holmes",
+        "stargazers_count": 1082
+    },
+    {
+        "id": 323724010,
+        "full_name": "nickjj/docker-rails-example",
+        "stargazers_count": 1079
+    },
+    {
+        "id": 354713589,
+        "full_name": "thoughtbot/hotwire-example-template",
+        "stargazers_count": 1076
+    },
+    {
+        "id": 53977944,
+        "full_name": "arbox/nlp-with-ruby",
+        "stargazers_count": 1076
+    },
+    {
+        "id": 457743,
+        "full_name": "wvanbergen/chunky_png",
+        "stargazers_count": 1075
+    },
+    {
+        "id": 359492634,
+        "full_name": "Lightricks/Kintsugi",
+        "stargazers_count": 1073
+    },
+    {
+        "id": 24662315,
+        "full_name": "CocoaPods/cocoapods-deintegrate",
+        "stargazers_count": 1073
+    },
+    {
+        "id": 146154,
+        "full_name": "brynary/rack-bug",
+        "stargazers_count": 1072
+    },
+    {
+        "id": 2046192,
+        "full_name": "openSUSE/open-build-service",
+        "stargazers_count": 1072
+    },
+    {
+        "id": 8154497,
+        "full_name": "rubysec/ruby-advisory-db",
+        "stargazers_count": 1071
+    },
+    {
+        "id": 30093164,
+        "full_name": "mattbrictson/rails-template",
+        "stargazers_count": 1071
+    },
+    {
+        "id": 272141550,
+        "full_name": "MeetYouDevs/cocoapods-imy-bin",
+        "stargazers_count": 1070
+    },
+    {
+        "id": 3003661,
+        "full_name": "sunaku/tamzen-font",
+        "stargazers_count": 1069
+    },
+    {
+        "id": 85574729,
+        "full_name": "nikolalsvk/render_async",
+        "stargazers_count": 1069
+    },
+    {
+        "id": 4197769,
+        "full_name": "berkshelf/berkshelf",
+        "stargazers_count": 1069
+    },
+    {
+        "id": 68964815,
+        "full_name": "graphiti-api/graphiti",
+        "stargazers_count": 1067
+    },
+    {
+        "id": 1075959,
+        "full_name": "amro/gibbon",
+        "stargazers_count": 1065
+    },
+    {
+        "id": 8930705,
+        "full_name": "fgrehm/vagrant-cachier",
+        "stargazers_count": 1063
+    },
+    {
+        "id": 2000086,
+        "full_name": "elcuervo/airplay",
+        "stargazers_count": 1063
+    },
+    {
+        "id": 43178783,
+        "full_name": "janko/down",
+        "stargazers_count": 1063
+    },
+    {
+        "id": 33518829,
+        "full_name": "PGYER/fir-cli",
+        "stargazers_count": 1062
+    },
+    {
+        "id": 213248,
+        "full_name": "fakefs/fakefs",
+        "stargazers_count": 1061
+    },
+    {
+        "id": 520927679,
+        "full_name": "rails/mission_control-jobs",
+        "stargazers_count": 1061
+    },
+    {
+        "id": 24784998,
+        "full_name": "SciRuby/daru",
+        "stargazers_count": 1061
+    },
+    {
+        "id": 2824626,
+        "full_name": "faye/faye-websocket-ruby",
+        "stargazers_count": 1059
+    },
+    {
+        "id": 1005013,
+        "full_name": "rgeo/rgeo",
+        "stargazers_count": 1059
+    },
+    {
+        "id": 10294022,
+        "full_name": "avdi/naught",
+        "stargazers_count": 1057
+    },
+    {
+        "id": 49221370,
+        "full_name": "hypriot/image-builder-rpi",
+        "stargazers_count": 1056
+    },
+    {
+        "id": 28706,
+        "full_name": "jaimeiniesta/metainspector",
+        "stargazers_count": 1049
+    },
+    {
+        "id": 1180995,
+        "full_name": "iobridge/thingspeak",
+        "stargazers_count": 1049
+    },
+    {
+        "id": 161399160,
+        "full_name": "Shopify/shopify-cli",
+        "stargazers_count": 1049
+    },
+    {
+        "id": 1266194,
+        "full_name": "splitwise/super_diff",
+        "stargazers_count": 1048
+    },
+    {
+        "id": 1366203,
+        "full_name": "seatgeek/soulmate",
+        "stargazers_count": 1048
+    },
+    {
+        "id": 47001236,
+        "full_name": "rastating/wordpress-exploit-framework",
+        "stargazers_count": 1047
+    },
+    {
+        "id": 270226,
+        "full_name": "defunkt/cijoe",
+        "stargazers_count": 1047
+    },
+    {
+        "id": 836895,
+        "full_name": "haml/haml-rails",
+        "stargazers_count": 1047
+    },
+    {
+        "id": 80040,
+        "full_name": "radar/by_star",
+        "stargazers_count": 1047
+    },
+    {
+        "id": 451554,
+        "full_name": "michelson/lazy_high_charts",
+        "stargazers_count": 1046
+    },
+    {
+        "id": 120039636,
+        "full_name": "licensee/licensed",
+        "stargazers_count": 1046
+    },
+    {
+        "id": 407852490,
+        "full_name": "rails/propshaft",
+        "stargazers_count": 1044
+    },
+    {
+        "id": 8270619,
+        "full_name": "aws/opsworks-cookbooks",
+        "stargazers_count": 1043
+    },
+    {
+        "id": 2090,
+        "full_name": "caged/gitnub",
+        "stargazers_count": 1043
+    },
+    {
+        "id": 3419782,
+        "full_name": "jfirebaugh/konacha",
+        "stargazers_count": 1039
+    },
+    {
+        "id": 365772,
+        "full_name": "cucumber/cucumber-rails",
+        "stargazers_count": 1038
+    },
+    {
+        "id": 18778773,
+        "full_name": "romainbutteaud/Kaffeine",
+        "stargazers_count": 1038
+    },
+    {
+        "id": 647017041,
+        "full_name": "shayonj/pg_easy_replicate",
+        "stargazers_count": 1037
+    },
+    {
+        "id": 567248876,
+        "full_name": "rails/solid_cache",
+        "stargazers_count": 1035
+    },
+    {
+        "id": 17153103,
+        "full_name": "DefactoSoftware/Hours",
+        "stargazers_count": 1034
+    },
+    {
+        "id": 564096,
+        "full_name": "igrigorik/em-synchrony",
+        "stargazers_count": 1034
+    },
+    {
+        "id": 715767201,
+        "full_name": "ruby-ui/ruby_ui",
+        "stargazers_count": 1034
+    },
+    {
+        "id": 221249571,
+        "full_name": "natalie-lang/natalie",
+        "stargazers_count": 1032
+    },
+    {
+        "id": 24954,
+        "full_name": "ruby-i18n/i18n",
+        "stargazers_count": 1031
+    },
+    {
+        "id": 40316915,
+        "full_name": "k0kubun/md2key",
+        "stargazers_count": 1030
+    },
+    {
+        "id": 624940,
+        "full_name": "nov/fb_graph",
+        "stargazers_count": 1028
+    },
+    {
+        "id": 202444,
+        "full_name": "ledermann/rails-settings",
+        "stargazers_count": 1028
+    },
+    {
+        "id": 2416064,
+        "full_name": "alphagov/whitehall",
+        "stargazers_count": 1027
+    },
+    {
+        "id": 2193655,
+        "full_name": "phusion/juvia",
+        "stargazers_count": 1026
+    },
+    {
+        "id": 2548,
+        "full_name": "composite-primary-keys/composite_primary_keys",
+        "stargazers_count": 1024
+    },
+    {
+        "id": 43,
+        "full_name": "technoweenie/attachment_fu",
+        "stargazers_count": 1024
+    },
+    {
+        "id": 10504669,
+        "full_name": "publiclab/plots2",
+        "stargazers_count": 1024
+    },
+    {
+        "id": 231339,
+        "full_name": "net-ssh/net-ssh",
+        "stargazers_count": 1023
+    },
+    {
+        "id": 2563155,
+        "full_name": "mattheworiordan/capybara-screenshot",
+        "stargazers_count": 1022
+    },
+    {
+        "id": 14557445,
+        "full_name": "GliaX/Stethoscope",
+        "stargazers_count": 1013
+    },
+    {
+        "id": 10557109,
+        "full_name": "Parallels/vagrant-parallels",
+        "stargazers_count": 1012
+    },
+    {
+        "id": 1874,
+        "full_name": "nathansobo/treetop",
+        "stargazers_count": 1010
+    },
+    {
+        "id": 11699910,
+        "full_name": "yujinakayama/transpec",
+        "stargazers_count": 1010
+    },
+    {
+        "id": 13350355,
+        "full_name": "vccw-team/vccw",
+        "stargazers_count": 1009
+    }
+]
