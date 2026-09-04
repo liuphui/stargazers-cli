@@ -18,30 +18,63 @@ def construct_headers() -> dict:
     }
     return headers
 
-def fetch_repositories() -> List[dict]:
-    get_public_repositories_url = "https://api.github.com/repositories"
-    headers = construct_headers()
-    response = requests.get(get_public_repositories_url, headers=headers).json()
-    return response
-
 def fetch_top_starred_by_language(given_language: str) -> dict:
-    response = fetch_repositories()
     headers = construct_headers()
     
-    # { repo_name : { language1, language2 } }
-    repo_by_language = {}
-    for i in range(len(response)):
-        repository_name = response[i].get("name", "")
-        language_response = requests.get(response[i].get("languages_url", ""), headers=headers).json()
-        if given_language in language_response:
-            repo_by_language[repository_name] = language_response
-    return repo_by_language
+    url = "https://api.github.com/search/repositories"
+    
+    page = 1
+    total_stargazers_stats = []
+    while True:
+        params = {
+            "q": f"language:{given_language}",
+            "sort": "stars",
+            "order": "desc",
+            "per_page": 100,
+            "page": page
+        }
+        
+        response = requests.get(url, params=params, headers=headers)
+        
+        try:
+            response.raise_for_status()
+        except requests.exceptions.HTTPError:
+            print(response.json())
+        
+        data = response.json()
+        items = data.get("items", [])
+        
+        # Stop when there are no more items
+        if not items:
+            break
+        
+        total_stargazers_stats = []
+        for item in items:
+            _id = item.get("id")
+            repo_name = item.get("name", "")
+            stargazers_count = item.get("stargazers_count")
+            
+            stargazers_stats = {
+                "id": _id,
+                "repository_name": repo_name,
+                "stargazers_count": stargazers_count
+            }
+            
+            total_stargazers_stats.append(stargazers_stats)
+            
+            # Stop at the top 100
+            if len(total_stargazers_stats) == 100:
+                break
+            
+        page += 1
+        
+    return total_stargazers_stats
 
 def main():
-    output = fetch_top_starred_by_language("Ruby")
-    print(output)
+    total_stargazers_stats = fetch_top_starred_by_language("Ruby")
+    print(f"Found {len(total_stargazers_stats)} repositories")
+    print(total_stargazers_stats)
     
 if __name__ == "__main__":
     main()
-
     
