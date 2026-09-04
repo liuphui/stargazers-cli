@@ -1,7 +1,5 @@
-from typing import List
 import requests
 import os
-import json
 from dotenv import load_dotenv
 
 def construct_headers() -> dict:
@@ -15,28 +13,31 @@ def construct_headers() -> dict:
     }
     return headers
 
-def fetch_top_starred_by_language(given_language: str) -> dict:
+def fetch_top_starred_by_language(given_language: str, limit: int) -> dict:
     headers = construct_headers()
     
     url = "https://api.github.com/search/repositories"
     
     page = 1
     total_stargazers_stats = []
-    while True:
+    while len(total_stargazers_stats) <= limit:
+        # Calculate how many items are left to reach the limit
+        remaining = limit - len(total_stargazers_stats)
+        per_page = min(remaining, 100)
+        
         params = {
             "q": f"language:{given_language}",
             "sort": "stars",
             "order": "desc",
-            "per_page": 100,
+            "per_page": per_page,
             "page": page
         }
         
         response = requests.get(url, params=params, headers=headers)
         
-        try:
-            response.raise_for_status()
-        except requests.exceptions.HTTPError:
-            print(response.json())
+        if response.status_code != 200:
+            print(f"API Error ({response.status_code}):", response.json().get("message"))
+            break
         
         data = response.json()
         items = data.get("items", [])
@@ -46,12 +47,10 @@ def fetch_top_starred_by_language(given_language: str) -> dict:
             break
         
         for item in items:
-            _id = item.get("id")
             full_name = item.get("full_name", "")
             stargazers_count = item.get("stargazers_count")
             
             stargazers_stats = {
-                "id": _id,
                 "full_name": full_name,
                 "stargazers_count": stargazers_count
             }
@@ -60,13 +59,3 @@ def fetch_top_starred_by_language(given_language: str) -> dict:
         page += 1
         
     return total_stargazers_stats
-
-def main():
-    total_stargazers_stats = fetch_top_starred_by_language("Ruby")
-    print(f"Found {len(total_stargazers_stats)} repositories")
-    with open('data/output.json', 'w') as file:
-        json.dump(total_stargazers_stats, file)
-    
-if __name__ == "__main__":
-    main()
-    
