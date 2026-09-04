@@ -20,7 +20,7 @@ def fetch_top_starred_by_language(given_language: str, limit: int) -> dict:
     
     page = 1
     total_stargazers_stats = []
-    while len(total_stargazers_stats) <= limit:
+    while len(total_stargazers_stats) < limit:
         # Calculate how many items are left to reach the limit
         remaining = limit - len(total_stargazers_stats)
         per_page = min(remaining, 100)
